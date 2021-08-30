@@ -5,7 +5,7 @@ titleAlt      = "Join Us in Celebrating a Knight of Distinguished Alumni"
 shortTitle    = "Knight of Distinguished Alumni"
 organizer   = "Norwin Alumni & Friends Association"
 # Remember to adjust eventDate to reflect the appropriate date and time.
-eventComplete = false
+eventComplete = true
 # EventStatus Type - https://schema.org/EventStatusType
 # Valid states:
 # => EventCancelled
@@ -32,29 +32,38 @@ layout_hero   = true
 
 
 sponsors = [
+  "Al & Kim Raible",
   "Andrea Kuklis",
+  "The Beef Jerky Outlet, Douglas Young",
   "Belak Flowers, Inc.",
+  "Berkshire Hathaway, Rebecca Parry",
   "Brittany Hodgkins from Brittany’s Scentsy",
   "Carley Painter from Kenny Ross Ford",
   "Caruthers & Caruthers, P.C.",
+  "C. Harper Auto Group",
+  "CFS Settlement Services",
   "Cheryl C. Cook",
   "The Colonial Grille",
   "Commercial Bank and Trust",
   "Darlene Ciocca",
-  "Debbie Flinner",
   "Diane Mardell, in memory of Heather Dervin",
+  "DNK Creations, Debbie Flinner",
   "Eichelberger and Sons, Inc.",
   "Feathers Artist Market & Gifts",
   "Hildenbrand Design Center, Inc.",
+  "Hillcrest Intermediate PTA",
   "Interiors by Woleslagle",
   "Jacktown Ride and Hunt Club",
   "James W. Shirley Funeral Home, Inc.",
   "Kristy Gareis from Thirty One",
+  "Kristy Pierce",
   "The Lamp Theatre",
   "Lisa Blair from Jim Shorkey KIA",
   "Lisa Roe from Tastefully Simple",
   "Luehm Candy Company",
   "Lynn Clark",
+  "Marlene Woleslagle",
+  "Maureen Kroll, RN MN JD PC",
   "Melissa Johnson Cantalupo, in memory of Jerilyn Johnson/Smiles",
   "Michelle Ann Ogg",
   "Myers, Duffy, Dansak, and Clegg LLC",
@@ -67,14 +76,20 @@ sponsors = [
   "Norwin Teachers Federal Credit Union",
   "The Novotnak and Barry Families",
   "Ott Funeral Home, Inc.",
+  "Parkview Community Federal Credit Union, Morgan McCallister"
   "Precision Defense Services, Inc.",
+  "Quinn Brewing Company",
   "Redrock Fence, Inc.",
+  "Salsa Sam's Eatery",
+  "Scalise/Johnson Chiropractic",
+  "Sheridan Terrace PTA",
   "S&T Bank",
   "Somerset Trust Company",
   "Stratigos Banquet Centre",
   "The Stoecklein Family",
   "Tom & Paula Steiner",
   "Tyler Jones, Attorney at Law - Petrillo Jones, LLC",
+  "The UPS Store, White Oak, Krissy Tapocik"
   "William Snyder Funeral Home, Inc.",
   "Woleslagle Custom Contracting"
 ]
