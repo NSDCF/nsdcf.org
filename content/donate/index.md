@@ -9,7 +9,7 @@ stepTwoHeading      = "Do you wish to specify a specific NSDCF program for your 
 stepThreeHeading    = "Pay with Paypal"
 genericDonationName = "All Programs"
 genericDonationValue = "AllPrograms"
-donationOptions = ["All Programs","Foundation Scholarships","Educational Giving Fund","Educator Innovation Grants","NAFA Scholarship","Norwin Athletics & Activities Funds","Norwin Fine Arts Fund","Norwin STEM Fund","Community Memorials","Other"]
+donationOptions = ["All Programs","Foundation Scholarships","Educational Giving Fund","Educator Innovation Grants","NAFA Scholarship","Norwin Athletics & Activities Funds","Norwin Fine Arts Fund","Norwin STEM Fund","Project Playground","Community Memorials","Other"]
 payByCheck = "Alternatively, donations may be made by check payable to *Norwin School District Community Foundation* and mailed to 281 McMahon Drive, North Huntingdon, PA 15642."
 url = "/donate"
 aliases = ["/days-of-giving", "/day-of-giving", "/giving"]
@@ -26,11 +26,11 @@ subheading = "The future awaits Norwin students. Your support helps them move to
     name = "Donate"
     parent = "get-involved"
     weight = 60
-    
+
 [[resources]]
   name = "social"
   src  = "social_img.png"
-    
+
 [[resources]]
   name = "featured"
   src  = "donate.jpg"
@@ -47,4 +47,4 @@ Through your support, the NSDCF is able to help make college dreams reality thro
 
 On behalf Norwin students and teachers, the NSDCF thanks you for your continued support.
 
-&mdash;Dr. Jack Boylan, President, NSDCF 
+&mdash;Dr. Jack Boylan, President, NSDCF
