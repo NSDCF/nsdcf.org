@@ -20,15 +20,25 @@ Businesses and individuals making a donation to the NSDCF receive will receive a
 
 ##### Qualified Charitable Distributions from IRA Accounts
 
-For those age 70 1/2 or older, you can use funds from your traditional IRA account to make a tax-free Qualified Charitable Distribution (QCD) directly to the Norwin School District Community Foundation or other qualified charitable organizations of your choice. Under current law, the maximum alloweable QCD is $100,000 per individual annually and is counted towards all or part of your required minimum distribution (RMD) for the tax year. As such, early planning is necessary to ensure compliance with QCD eligibility rules and avoid any lost opportunities or mistakes due to the timing of your QCD and your RMDs, as QCDs are not retroactive.
+*Note: The Cares Act suspension of required minimum distribution (RMD) has not been extended into 2021. If you are 70 ½ or older, you can donate up to $100,000 in IRA assets directly to the Norwin School District Community Foundation without taking the distribution as taxable income. Remember, the new RMD age is 72; if giving a QCD at 70 ½, you will reduce future RMD by lowering your overall IRA balance.*
+
+For those age 70 1/2 or older, you can use funds from your traditional IRA account to make a tax-free Qualified Charitable Distribution (QCD) directly to the Norwin School District Community Foundation or other qualified charitable organizations of your choice.
+
+Under current law, the maximum alloweable QCD is $100,000 per individual annually and is counted towards all or part of your required minimum distribution (RMD) for the tax year. Distributions must be made to a qualifying charity, such as the Norwin School District Community Foundation.
+
+Please take note that Donor Advised Funds and Gift Accounts are not permitted to accept a QCD. However, you can give an IRA gift to these types of funds and receive a charitable tax deduction, lowering your adjusted gross income (AGI) if itemizing.
+
+As such, early planning is necessary to ensure compliance with QCD eligibility rules and avoid any lost opportunities or mistakes due to the timing of your QCD and your RMDs, as QCDs are not retroactive.
 
 Should you decide to make a donation to NSDCF, have your IRA representative send your donation payable to:
 
 > *Norwin School District Community Foundation*<br />
 > 281 McMahon Drive<br />
 > North Huntingdon, PA 15642.
-  
-You may also review the following outside articles for additional information on QCDs and their requirements: 
+
+Please take note that Donor Advised Funds and Gift Accounts are not permitted to accept a QCD. However, you can give an IRA gift to these types of funds and receive a charitable tax deduction, lowering your adjusted gross income (AGI) if itemizing.
+
+You may also review the following outside articles for additional information on QCDs and their requirements:
 
 * [Can I Use Money from My IRA to Donate to Charity?](https://www.investopedia.com/taxes/can-i-use-money-my-ira-donate-charity/) *Investopedia*
 * [Qualified Charitable Distributions (QCDs) from IRAs](http://www.forbes.com/sites/davidmarotta/2016/04/28/qualified-charitable-distributions-qcds-from-iras/#292bf1911f06) *Forbes*
