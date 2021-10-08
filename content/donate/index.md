@@ -16,9 +16,9 @@ aliases = ["/days-of-giving", "/day-of-giving", "/giving"]
 subheading = "The future awaits Norwin students. Your support helps them move towards it."
 
 [banner]
- active     = false
- expiryDate = 2020-09-30T00:01:00-05:00
- text       = "The annual Days of Giving take place between September 30 and October 4. Your support can help make a difference for Norwin students."
+ active     = true
+ expiryDate = 2021-10-18T00:01:00-05:00
+ text       = "The annual Days of Giving take place October 13th through the 17th. Your support can help make a difference for Norwin students."
  linkText   = "Learn more."
 
 [menu]
@@ -26,6 +26,15 @@ subheading = "The future awaits Norwin students. Your support helps them move to
     name = "Donate"
     parent = "get-involved"
     weight = 60
+
+[[videos]]
+  name        = "Support Norwin's 2021 Days of Giving"
+  embedUrl    = "https://www.youtube.com/embed/Y4hW8KaW7yU"
+  url         = "https://www.youtube.com/watch?v=Y4hW8KaW7yU"
+  description = "The future awaits Norwin students. Your support helps them move towards it during our annual Days of Giving. Thanks to the support of community members, NSDCF is able to help make college dreams reality through scholarships, empower Norwin teachers to explore bold new opportunities for their students with Educator Innovation Grants, open the minds of our students to a world of opportunity through STEM education and summer camps, and so much more. Your donation can have a profound impact on the lives of Norwin students."
+  duration    = "1m57s"
+  youtubeId   = "Y4hW8KaW7yU"
+  uploadDate  = 2021-10-08T00:11:00-05:00
 
 [[resources]]
   name = "social"
