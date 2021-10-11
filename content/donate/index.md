@@ -16,7 +16,7 @@ aliases = ["/days-of-giving", "/day-of-giving", "/giving"]
 subheading = "The future awaits Norwin students. Your support helps them move towards it."
 
 [banner]
- active     = true
+ active     = false
  expiryDate = 2021-10-18T00:01:00-05:00
  text       = "The annual Days of Giving take place October 13th through the 17th. Your support can help make a difference for Norwin students."
  linkText   = "Learn more."
@@ -38,7 +38,7 @@ subheading = "The future awaits Norwin students. Your support helps them move to
 
 [[resources]]
   name = "social"
-  src  = "social_img.png"
+  src  = "social_card_img.png"
 
 [[resources]]
   name = "featured"
