@@ -6,6 +6,12 @@ title = "Now Accepting Nominations for the 2022 Class of Distinguished Alumni"
 hasResources = true
 "news/categories" = ["Alumni"]
 
+[banner]
+ active     = true
+ expiryDate = 2021-10-18T00:01:00-05:00
+ text       = "Nominations for Norwin's upcoming class of Distinguished Alumni are now being accepted."
+ linkText   = "Learn more."
+
 [[resources]]
   src   = "docs/2022-norwin-alumni-nomination-form.pdf"
   name  = "nominations-form"
