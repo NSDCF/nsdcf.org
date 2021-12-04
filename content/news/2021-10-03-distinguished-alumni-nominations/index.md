@@ -26,4 +26,4 @@ The 2022 class will feature up to twelve alumni who have had careers of distinct
 
 Recipients will be honored at the fifth annual Knight of Distinguished Alumni Recognition Dinner, to be hosted in May, 2022 at Stratigos Banquet Centre in North Huntingdon, Pennsylvania.
 
-Download the [nomination form](docs/2022-norwin-alumni-nomination-form.pdf) now. All nominations are due on December 22, 2021, by 4 p.m. (est).
+Download the [nomination form](docs/2022-norwin-alumni-nomination-form.pdf) now. All nominations are due on January 10, 2022, by 4 p.m. (est).
