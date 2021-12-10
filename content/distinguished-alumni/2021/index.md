@@ -171,7 +171,11 @@ sponsors = [
 
 [[resources]]
   name = "featured"
-  src  = "mast.png"
+  src  = "mast.jpg"
+
+[[resources]]
+  name = "2021-recipients.jpg"
+  src  = "2021-recipients.jpg"
 
 [[resources]]
   src  = "recipients/*.jpg"
@@ -185,6 +189,8 @@ sponsors = [
     icon = "pdf"
 +++
 
-You are cordially invited to join the Norwin School District Community Foundation on Thursday, August 19, 2021 for a celebration of Norwin's past, present, and future as we honor the achievements of some of our most distinguished alumni and graduating students, sponsored by Duncan Financial Group.
+On August 19, 2021, members of the Norwin community and past graduates came together in celebration of the accomplishments of eleven Distinguished Norwin Alumni, one Distinguished Friend of Norwin, and two graduating NAFA Scholarship recipients.
 
-Make your [reservations today](#reservations).
+The Norwin Alumni & Friends Association, together with the Norwin School District Community Foundation would like to thank the community for their support and a wonderful evening.
+
+{{< img "2021-recipients.jpg" "img--full" >}}
