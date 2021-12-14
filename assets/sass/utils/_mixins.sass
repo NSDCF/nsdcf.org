@@ -19,6 +19,9 @@
   @else if $rule == "clip-path"
     @supports(clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%))
       @content
+  @else if $rule == "animation"
+    @supports(animation-name: foo)
+      @content
   @else
     @supports(#{$rule})
       @content

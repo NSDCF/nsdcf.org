@@ -10,7 +10,7 @@ aliases = ["/news/10-08-18-veterans-day-shirts"]
   name = "shirt.png"
 +++
 
-{{< img "shirt.png" "img--side" "quarter" >}}
+{{< img src="shirt.png" class="img--right" >}}
 
 ## Help show your support for Norwin veterans this Veterans Day
 

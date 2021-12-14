@@ -10,7 +10,7 @@ draft = false
   name = "photo-1"
 +++
 
-{{< img "photo-1" "img--side" >}}
+{{< img src="photo-1" class="img--wide-right" >}}
 
 The NSDCF would like to congratulate this year's lucky NAFA *Luck & Loot* raffle winner, Jude Abraham. Jude was excited to take home $500 along with $100 in instant lottery tickets while helping support NAFA's mission.
 

@@ -4,6 +4,7 @@ title     = "Norwin Educational Giving Fund"
 subTitle  = "Empowering Norwin educators to unleash their creativity."
 weight    = "40"
 hasResources = "true"
+showImage = true
 
 [[resources]]
   name = "featured"

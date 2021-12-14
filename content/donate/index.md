@@ -9,7 +9,7 @@ stepTwoHeading      = "Do you wish to specify a specific NSDCF program for your 
 stepThreeHeading    = "Pay with Paypal"
 genericDonationName = "All Programs"
 genericDonationValue = "AllPrograms"
-donationOptions = ["All Programs","Foundation Scholarships","Educational Giving Fund","Educator Innovation Grants","NAFA Scholarship","Norwin Athletics & Activities Funds","Norwin Fine Arts Fund","Norwin STEM Fund","Project Playground","Community Memorials","Other"]
+donationOptions = ["All Programs","Foundation Scholarships","Educational Giving Fund","Educator Innovation Grants","NAFA Scholarship","Norwin Athletics & Activities Funds","Norwin Fine Arts Fund","Norwin STEM Fund","Community Memorials","Other"]
 payByCheck = "Alternatively, donations may be made by check payable to *Norwin School District Community Foundation* and mailed to 281 McMahon Drive, North Huntingdon, PA 15642."
 url = "/donate"
 aliases = ["/days-of-giving", "/day-of-giving", "/giving"]
@@ -17,8 +17,8 @@ subheading = "The future awaits Norwin students. Your support helps them move to
 
 [banner]
  active     = false
- expiryDate = 2021-10-18T00:01:00-05:00
- text       = "The annual Days of Giving take place October 13th through the 17th. Your support can help make a difference for Norwin students."
+ expiryDate = 2020-09-30T00:01:00-05:00
+ text       = "The annual Days of Giving take place between September 30 and October 4. Your support can help make a difference for Norwin students."
  linkText   = "Learn more."
 
 [menu]
@@ -26,20 +26,11 @@ subheading = "The future awaits Norwin students. Your support helps them move to
     name = "Donate"
     parent = "get-involved"
     weight = 60
-
-[[videos]]
-  name        = "Support Norwin's 2021 Days of Giving"
-  embedUrl    = "https://www.youtube.com/embed/Y4hW8KaW7yU"
-  url         = "https://www.youtube.com/watch?v=Y4hW8KaW7yU"
-  description = "The future awaits Norwin students. Your support helps them move towards it during our annual Days of Giving. Thanks to the support of community members, NSDCF is able to help make college dreams reality through scholarships, empower Norwin teachers to explore bold new opportunities for their students with Educator Innovation Grants, open the minds of our students to a world of opportunity through STEM education and summer camps, and so much more. Your donation can have a profound impact on the lives of Norwin students."
-  duration    = "1m57s"
-  youtubeId   = "Y4hW8KaW7yU"
-  uploadDate  = 2021-10-08T00:11:00-05:00
-
+    
 [[resources]]
   name = "social"
-  src  = "social_card_img.png"
-
+  src  = "social_img.png"
+    
 [[resources]]
   name = "featured"
   src  = "donate.jpg"
@@ -56,4 +47,4 @@ Through your support, the NSDCF is able to help make college dreams reality thro
 
 On behalf Norwin students and teachers, the NSDCF thanks you for your continued support.
 
-&mdash;Dr. Jack Boylan, President, NSDCF
+&mdash;Dr. Jack Boylan, President, NSDCF 

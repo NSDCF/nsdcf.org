@@ -12,7 +12,7 @@ author = "Jack Boylan"
   src  = "photos/norwin-vets-2000.jpg"
 +++
 
-{{< img "photos/norwin-vets-2000.jpg" "img--side" "quarter" >}}
+{{< img src="photos/norwin-vets-2000.jpg" class="img--wide-right" >}}
 
 This Veterans Day, consider spending time at two of the Norwin area's hometown veterans memorials such as the [Norwin Area Veterans Memorial]({{< ref "/programs/memorials" >}}), located beside Norwin High School and dedicated to Norwin graduates who gave their lives in military service to our country, and the [Norwin Vets 2000 Memorial]({{< ref "/programs/memorials" >}}), located in front of the North Huntingdon Township Townhouse and dedicated to the honorable service of Norwin area veterans.
 

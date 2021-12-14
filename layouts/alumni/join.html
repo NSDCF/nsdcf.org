@@ -1,85 +1,79 @@
 {{ define "main" }}
-  <article>
+  <article class="join grid">
     {{ if eq .Params.layout "mast" }}
       {{ $mast_img := .Resources.GetMatch "featured" }}
       <header class="mast mast--single_cover" style="background:linear-gradient(rgba(0,0,0,.25), rgba(0,0,0,.25)), url({{ $mast_img.RelPermalink }}) center center / cover no-repeat;">
     {{ else }}
       <header class="mast mast--single">
     {{ end }}
-
       <h1 class="mast__title">{{ .Title }}</h1>
     </header>
 
-    <div class="content">
-      {{ .Content }}
+    {{ .Content }}
 
-      <div class="donation_form donation_form--alumni">
+    <div class="donation_form donation_form--alumni">
+      <button class="accordion-link">Lifetime Membership&mdash;$100</button>
+      <div class="alumni-form__item" id="alumni--lifetime">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="78WX2523RLPRW">
+          <input type="hidden" name="currency_code" value="USD">
 
-        <h5><a href="#alumni--lifetime" ref="alumni--lifetime" class="alumni-form__link">Lifetime Membership&mdash;$50</a></h5>
-        <div class="alumni-form__item" id="alumni--lifetime">
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="78WX2523RLPRW">
-            <input type="hidden" name="currency_code" value="USD">
+          <fieldset class="form__fieldset">
+            <input type="hidden" name="on1" value="Norwin Graduate?">
+            <label class="form__label" for="os1">Are you a Norwin Graduate?</label>
+            <select class="form__select" name="os1">
+            	<option value="Yes">Yes </option>
+            	<option value="No">No </option>
+            </select>
+          </fieldset>
 
-            <fieldset class="form__fieldset">
-              <input type="hidden" name="on1" value="Norwin Graduate?">
-              <label class="form__label" for="os1">Are you a Norwin Graduate?</label>
-              <select class="form__select" name="os1">
-              	<option value="Yes">Yes </option>
-              	<option value="No">No </option>
-              </select>
-            </fieldset>
+          <fieldset class="form__fieldset">
+            <label class="form__label" for="os2">Year of Graduation:</label>
+            <input type="hidden" name="on2" value="Graduation Year">
+            <input type="text" name="os2" maxlength="200">
+          </fieldset>
 
-            <fieldset class="form__fieldset">
-              <label class="form__label" for="os2">Year of Graduation:</label>
-              <input type="hidden" name="on2" value="Graduation Year">
-              <input type="text" name="os2" maxlength="200">
-            </fieldset>
-
-            <button class="form__button button--svg button--paypal" type="submit">
-              <span class="button__label--svg">Pay with</span>
-              {{ partial "svg/paypal.svg" (dict "class" "button__icon button__icon--paypal") }}
-            </button>
-          </form>
-        </div>
-
-
-        <h5><a href="#alumni--annual" ref="alumni--annual" class="alumni-form__link">Annual Membership&mdash;$20</a></h5>
-        <div class="alumni-form__item" id="alumni--annual">
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="AKLRMEN942F9A">
-            <input type="hidden" name="currency_code" value="USD">
-
-            <fieldset class="form__fieldset">
-              <input type="hidden" name="on1" value="Norwin Graduate?">
-              <label class="form__label" for="os1">Are you a Norwin Graduate?</label>
-              <select class="form__select" name="os1">
-              	<option value="Yes">Yes </option>
-              	<option value="No">No </option>
-              </select>
-            </fieldset>
-
-            <fieldset class="form__fieldset">
-              <label class="form__label" for="os2">Year of Graduation:</label>
-              <input type="hidden" name="on2" value="Graduation Year">
-              <input type="text" name="os2" maxlength="200">
-            </fieldset>
-
-            <button class="form__button button--svg button--paypal" type="submit">
-              <span class="button__label--svg">Pay with</span>
-              {{ partial "svg/paypal.svg" (dict "class" "button__icon button__icon--paypal") }}
-            </button>
-          </form>
-        </div>
-
+          <button class="form__button button--svg button--paypal" type="submit">
+            <span class="button__label--svg">Pay with</span>
+            {{ partial "svg/paypal.svg" (dict "class" "button__icon button__icon--paypal") }}
+          </button>
+        </form>
       </div>
 
-      {{ if .Resources.Match "docs/*" }}
-        {{ partial "resource_links" . }}
-      {{ end }}
+      <button class="accordion-link">Annual Membership&mdash;$20</button>
+      <div class="alumni-form__item" id="alumni--annual">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="AKLRMEN942F9A">
+          <input type="hidden" name="currency_code" value="USD">
+
+          <fieldset class="form__fieldset">
+            <input type="hidden" name="on1" value="Norwin Graduate?">
+            <label class="form__label" for="os1">Are you a Norwin Graduate?</label>
+            <select class="form__select" name="os1">
+            	<option value="Yes">Yes </option>
+            	<option value="No">No </option>
+            </select>
+          </fieldset>
+
+          <fieldset class="form__fieldset">
+            <label class="form__label" for="os2">Year of Graduation:</label>
+            <input type="hidden" name="on2" value="Graduation Year">
+            <input type="text" name="os2" maxlength="200">
+          </fieldset>
+
+          <button class="form__button button--svg button--paypal" type="submit">
+            <span class="button__label--svg">Pay with</span>
+            {{ partial "svg/paypal.svg" (dict "class" "button__icon button__icon--paypal") }}
+          </button>
+        </form>
+      </div>
     </div>
+
+    {{ if .Resources.Match "docs/*" }}
+      {{ partial "resource_links" . }}
+    {{ end }}
   </article>
 
 {{end}}
