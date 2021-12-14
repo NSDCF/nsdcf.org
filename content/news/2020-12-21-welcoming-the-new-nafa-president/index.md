@@ -14,7 +14,7 @@ author = "Jack Boylan"
 
 The Norwin Alumni & Friends Association proudly welcomes its new president, Ms. Lynn Clark,'75 and looks forward to a bright future under her leadership.<!--more-->
 
-{{< img "lynn-clark-headshot.jpg" "img--side" "quarter" >}}
+{{< img src="lynn-clark-headshot.jpg" class="img--wide-right" >}}
 
 For over thirty-five years, Clark has taught the children of southwestern Pennsylvania at Norwin, Uniontown, Mt. Pleasant, and with the Diocese of Pittsburgh. At Norwin, Clark has served as a student council advisor, is an American Red Cross certified instructor in CPR, first aid, and water safety, and volunteers for local food banks and with NAFA.
 

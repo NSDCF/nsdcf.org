@@ -42,13 +42,13 @@
     {{- end }}
     {{ block "style" . }}{{ end }}
 
+    {{- partial "head/site-scripts" . -}}
     {{- partial "head/site-inline-js.html" -}}
   </head>
 
-  <body class="{{ with .Type }}body--{{ . }}{{ end }}
-               {{ with .Kind }}body--{{ . }}{{ end }}
-               {{ with .Layout }}body--{{ . }}{{ end }}
-               {{ if .Params.layout_hero }}body--has-hero{{ end }}">
+  <body class="{{ with .Type }}{{ . }} {{ end -}}
+               {{ with .Kind }}{{ . }} {{ end -}}
+               {{ with .Layout }}{{ . }}{{ end -}}">
 
     {{ block "nav" . }}
       {{ partial "header/header" . }}
@@ -60,7 +60,6 @@
     </main>
 
     {{ partial "footer/site-footer" . }}
-    {{ partial "footer/site-scripts" . }}
     {{ template "_internal/google_analytics_async.html" . }}
   </body>
 </html>

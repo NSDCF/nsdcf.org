@@ -1,6 +1,20 @@
 {{ define "main" }}
-  <article>
-    {{ partial "mast" . }}
-    <div class="content content--news-single">{{ .Content }}</div>
+  {{- $images := .Resources.ByType "image" -}}
+  {{- $featured := $images.GetMatch "*feature*" -}}
+  {{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
+  {{- $featured := $featured.Fill "1200x900" -}}
+
+  <article class="single single--news grid wrapper">
+    <header class="mast mast--news grid sub-grid">
+      <h1 class="mast__title{{ with $featured }} mast__title--with-thumb{{end}}">{{ .Title }}</h1>
+      {{ with $featured -}}
+        <figure class="mast__thumb">
+          <img src="{{ $featured.Permalink }}" class="mast__thumb_img"/>
+        </figure>
+      {{- end -}}
+      {{- partial "news-meta" . -}}
+    </header>
+
+    {{.Content}}
   </article>
 {{ end }}

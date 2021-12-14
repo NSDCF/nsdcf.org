@@ -1,11 +1,11 @@
 {{ define "main" }}
-  <article>
+  <article class="single grid">
     {{ partial "mast" . }}
 
     <div class="content">{{ .Content }}</div>
 
     {{ if eq .RelPermalink "/alumni/board/" }}
-      <div class="content content--board">
+      <div class="cards">
         {{ partial "board-members" . }}
       </div>
     {{ end }}

@@ -5,7 +5,7 @@ author = "Jack Boylan"
 "news/categories" = ["Giving"]
 +++
 
-{{< img "photos/cochran_check_ceremony.jpg" "img--side" >}}
+{{< img src="photos/cochran_check_ceremony.jpg" class="img--wide-right" >}}
 
 #1 Cochran, a local car dealership group well-known to the region, recently donated $18,815 to the Norwin School District Community Foundation to fund the new *#1 Cochran Toyota Scholarship*.<!--more-->
 
@@ -15,7 +15,7 @@ This scholarship will be awarded annually to one graduating Norwin senior pursui
 
 In addition to funding this scholarship, #1 Cochran also made donations to two additional local charities, Beverly's Birthdays and the White Oak Animal Safe Haven.
 
-{{< img "photos/cochran_check_ceremony2.jpg" "img--full" >}}
+{{< img src="photos/cochran_check_ceremony2.jpg" class="img--full-main" >}}
 
 [Beverly's Birthdays](https://www.beverlysbirthdays.org/) endeavors to provide birthday cheer to children experiencing homelessness and families in need throughout southwestern Pennsylvania. Since 2011, Beverly's Birthdays has helped provide over 30,000 memorable birthday experiences.
 

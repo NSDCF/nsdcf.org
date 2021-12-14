@@ -1,5 +1,7 @@
 // Width of navbar on desktop screens.
-$navwidth: 4em;
+:root {
+  --nav-width: 4em;
+}
 
 $z-indexes: (
   "page-transitions": 999,
