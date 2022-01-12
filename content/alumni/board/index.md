@@ -29,12 +29,7 @@ draft = "false"
   name      = "John C. Boylan"
   honorific = "Dr."
   positions = ["Bylaws Chair"]
-
-[[members]]
-  name      = "Amy McCabe"
-  honorific = "Ms."
-  positions = ["Communications Chair"]
-
+  
 [[members]]
   name      = "Barb McKee"
   honorific = "Ms."
@@ -49,21 +44,6 @@ draft = "false"
   name      = "Tom Stoecklein"
   honorific = "Mr."
   positions = ["Scholarship Chair"]
-
-[[members]]
-  name      = "Lauren Steiner"
-  honorific = "Ms."
-  positions = ["Distinguished Alumni Nominations Chair"]
-
-[[members]]
-  name      = "Paula Steiner"
-  honorific = "Ms."
-  positions = ["Member-at-Large","NAFA Executive Committee Member"]
-
-[[members]]
-  name      = "Tom Steiner"
-  honorific = "Mr."
-  positions = ["Member-at-Large","NAFA Executive Committee Member"]
 
 [[members]]
   name      = "Jeff Bouldin"
