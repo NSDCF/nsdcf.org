@@ -18,12 +18,12 @@ draft = "false"
 [[members]]
   name      = "Jo Ann Stoecklein"
   honorific = "Ms."
-  positions = ["Treasurer","Communications Co-Chair", "NAFA Executive Committee Member","Social Committee"]
+  positions = ["Treasurer","Communications Co-Chair", "NAFA Executive Committee Member","Co-Chair, Distinguished Alumni Banquet","Social Committee"]
 
 [[members]]
   name      = "Debbie Kunkle"
   honorific = "Ms."
-  positions = ["Secretary","Past President","Member, NAFA Executive Committee"]
+  positions = ["Secretary","Past President","Member, NAFA Executive Committee","Co-Chair, Distinguished Alumni Banquet"]
 
 [[members]]
   name      = "John C. Boylan"
