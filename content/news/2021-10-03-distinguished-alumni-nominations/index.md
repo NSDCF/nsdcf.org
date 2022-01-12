@@ -7,7 +7,7 @@ hasResources = true
 "news/categories" = ["Alumni"]
 
 [banner]
- active     = true
+ active     = false
  expiryDate = 2021-10-18T00:01:00-05:00
  text       = "Nominations for Norwin's upcoming class of Distinguished Alumni are now being accepted."
  linkText   = "Learn more."
