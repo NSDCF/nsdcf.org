@@ -13,7 +13,7 @@ draft = "false"
 [[members]]
   name      = "Rebecca Parry"
   honorific = "Ms."
-  positions = ["Social Chair", "Member, NAFA Executive Committee"]
+  positions = ["Social Chair"]
 
 [[members]]
   name      = "Jo Ann Stoecklein"
@@ -23,7 +23,7 @@ draft = "false"
 [[members]]
   name      = "Debbie Kunkle"
   honorific = "Ms."
-  positions = ["Past President"]
+  positions = ["Secretary","Past President","Member, NAFA Executive Committee"]
 
 [[members]]
   name      = "John C. Boylan"
