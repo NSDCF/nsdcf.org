@@ -1,63 +1,81 @@
-.home-slide
-  background: color("background","white")
-  +section-padding
+.home-section
+  &:nth-of-type(odd)
+    background: var(--secondary-lightest)
+
+  &:nth-of-type(even)
+    background: var(--secondary)
+
+.home-section--intro
   +respond("tablet-landscape")
-    min-height: 100vh
-  +respond("desktop")
     margin-top: 100vh
 
-.list--home
-  background: color(background)
-  padding-top: $gutter*2
+.home-section--hero
+  align-items: center
+  grid-template-areas: "hero hero hero hero hero hero hero hero hero hero"
+  min-height: 60vh
 
-
-.list--home .listing
   +respond("tablet-landscape")
-    grid-column: 2 / 3
+    height: 100vh
+    position: fixed
+    overflow: hidden
+    left: 0
+    top: 0
+    z-index: var(--layer--1)
 
-.home-listings__intro
+    +supports("animation")
+      left: 100vw
+      animation: slideToLeft 3s ease forwards
+
+.home-section__hero-title
+  animation: fadeIn 5s ease forwards
+  align-self: end
+  color: var(--secondary-lightest)
+  font-size: var(--step-4)
+  grid-area: hero
+  grid-column: full-gutter-start / main-end
+  margin-bottom: var(--space-xl)
+  z-index: 100
+
   +respond("tablet-landscape")
-    grid-area: "side"
+    grid-column: main-start / main-end
+
+  +respond("desktop")
+    font-size: var(--step-3)
+    grid-column: col 3 / main-end
+
+  +respond("desktop-wide")
+    grid-column: col 4 / main-end
+
+.home-hero__figure
+  background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.9) 100%) repeat 0 0;
+  grid-area: hero
+  object-fit: cover
+  min-height: 60vh
+  padding: 0
+  overflow: hidden
+
+  +respond("tablet-landscape")
+    grid-column: full-gutter-start / full-end
+    height: calc(100vh - (var(--space-xs) * 2))
+    margin: var(--space-xs) 0
+
+.home-hero__img
+  min-height: 60vh
+  //min-height: 75vh
+  object-fit: cover
+  //object-position: -10vw 0
+  opacity: .85
+  width: 100%
+  overflow: hidden
+
+  +respond("tablet-landscape")
+    height: 100vh
+
+    //
+    // position: absolute
+    // top: 50%
+    // left: 50%
+    // transform: translateX(-50%)translateY(-50%)
 
 .home-listings__heading
-  margin-top: 0
-
-.alert
-  background: color(background, base)
-  border-bottom: 1px solid color(background, light)
-  //color: color(background)
-  text-align: center
-  position: absolute
-  top: 2.25em
-  padding: $gutter
-  left: 0
-  width: 100%
-  z-index: 500
-  +respond("desktop")
-    position: fixed
-    top: 0
-    padding: $halfGutter scale("large") $halfGutter scale("large")
-
-  &__text
-    font-size: scale(base)
-    margin-top: 0
-    +respond("desktop")
-      //font-size: scale("small")
-      //font-family: $family-sans-serif
-
-  &__btn
-    border: 1px solid color(background)
-    border-radius: 2em
-    color: color(background)
-    display: inline-block
-    font-family: $family-sans-serif
-    font-size: scale(small)
-    letter-spacing: 2px
-    margin: $gutter auto 0
-    padding: scale(x-small) scale(h2)
-    transition: color .25s, background-color .25s, border-color .25s
-    text-transform: uppercase
-    &:hover
-      background: color(accent, dark)
-      border-color: color(accent, dark)
-      color: color(primary)
+  margin-top: var(--space-2xl)

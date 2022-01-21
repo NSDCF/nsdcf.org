@@ -1,6 +1,7 @@
 +++
 title = "Alumni Association Board of Directors"
 draft = "false"
+noSummary = true
 
 [[resources]]
   src  = "*.jpg"
@@ -13,12 +14,12 @@ draft = "false"
 [[members]]
   name      = "Rebecca Parry"
   honorific = "Ms."
-  positions = ["Social Chair", "Member, NAFA Executive Committee"]
+  positions = ["Vice President", "Social Chair", "Member, NAFA Executive Committee"]
 
 [[members]]
   name      = "Jo Ann Stoecklein"
   honorific = "Ms."
-  positions = ["Treasurer","Communications Co-Chair", "NAFA Executive Committee Member","Social Committee"]
+  positions = ["Treasurer","Communications Co-Chair", "NAFA Executive Committee Member"]
 
 [[members]]
   name      = "Debbie Kunkle"
@@ -43,7 +44,7 @@ draft = "false"
 [[members]]
   name      = "Maryann Busdosh"
   honorific = "Ms."
-  positions = ["Vice President","NAFA Executive Committee Member","Membership Chair"]
+  positions = ["Membership Chair"]
 
 [[members]]
   name      = "Tom Stoecklein"
@@ -64,16 +65,6 @@ draft = "false"
   name      = "Tom Steiner"
   honorific = "Mr."
   positions = ["Member-at-Large","NAFA Executive Committee Member"]
-
-[[members]]
-  name      = "Jeff Bouldin"
-  honorific = "Mr."
-  positions = ["Community Liason"]
-
-[[members]]
-  name      = "Barb Popovic"
-  honorific = "Ms."
-  positions = ["Retiree Liason"]
 +++
 
 The current members of the Alumni Board of Directors are as follows:

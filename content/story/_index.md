@@ -1,14 +1,24 @@
 +++
-title = "Our Story"
+title     = "Our Story"
+linkTitle = "Our Story"
 date  = "2017-12-15 16:58:57 +0000"
 type = "story"
 
 [[resources]]
-  src  = "cover.jpg"
+  src  = "story_feature.jpg"
   name = "cover"
 +++
-The estate of Thomas J. and Gladys Sowash Stoker bequeathed a sizable sum to create an endowment to provide scholarships for Norwin High School Students residing in the Borough of Irwin.  The funds could only be provided to a 501c3 charitable organization, thus the creation of the Norwin School District Community Foundation (NSDCF) in 2007.
 
-Our mission is to engage in programs and activities benefiting primarily students and residents of Norwin School District, Westmoreland County, Pennsylvania, developing and increasing community philanthropy, developing and administering scholarship funds for students enrolled and attending Norwin School District and supporting Norwin School District in developing and administering educational programs.
+{{% p class="intro_p intro_p--with-thumb" %}}
+The Norwin School District Community Foundation is focused upon a single idea: *what if we can do more for our community and students?*
+{{% /p %}}
 
-Under the guidance of an all volunteer Board of Directors, the Norwin School District Community Foundation (NSDCF) has grown to manage 21 scholarships, an educator innovation grant program,  two veteran memorials within the Norwin area and  support for the District's STEM/STEAM initiatives through Pennsylvania's Educational Improvement Tax Credit Program (EITC) and individual donations.
+Since 2007, the NSDCF has dedicated itself to supporting programs and activities benefiting students and residents of the Norwin School District, increasing community philanthropy, developing and administering scholarship funds for Norwin students, and supporting Norwin School District educational programs.
+
+The results speak for themselves. We help Norwin graduates make college dreams a reality, seek to empower teachers to explore new ideas and opportunities to teach their students, and so much more.
+
+{{% slide class="slide slide--alt slide--history grid sub-grid" %}}
+## It all began with one scholarship{.slide__heading}
+In 2007, the estate of Thomas J. and Gladys Sowash Stoker sought to endow a scholarship fund for Norwin High School students residing in the borough of Irwin, Pennsylvania. During this process, the idea of the Norwin School District Community came into existence as a 501(c)(3) charity. Through the NSDCF, community businesses and families are able to setup scholarships without the need for management fees that would otherwise cut into endowment funds, limiting the aid that can be provided to Norwin students.
+
+That was just the beginning. Today, the NSDCF has grown to manage over 21 [community scholarships]({{< ref "/programs/scholarships" >}}), the [Educator Innovation Grant program]({{< ref "/programs/grants" >}}), two veteran [memorials]({{< ref "/programs/memorials" >}}) in the Norwin area, and support for the District's STEM/STEAM initiatives.{{% /slide %}}

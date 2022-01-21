@@ -7,10 +7,12 @@ layout_hero = true
 [[resources]]
  src = "index-hero.jpg"
  name = "featured"
- [params]
+ [resources.params]
   alt = "Graduating Norwin students walking onto the Norwin High School Football Field for the 2015 graduation ceremony."
 +++
 
-# We help current and future generations of Norwin students achieve the most out of their education.
+{{% slide class="slide slide--big_text home-section home-section--intro grid sub-grid" %}}
+# We help current and future generations of Norwin students achieve the most out of their education.{.slide__heading .slide__heading--big-text}
 
 The Norwin School District Community Foundation works to help Norwin teachers, parents, and students benefit further from their education through grants, scholarship programs, community outreach, and more.
+{{% /slide %}}

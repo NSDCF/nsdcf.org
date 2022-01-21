@@ -10,7 +10,7 @@ draft = false
   name = "photo-1"
 +++
 
-{{< img "photo-1" "img--side" >}}
+{{< img src="photo-1" class="img--wide-right" >}}
 
 Rachel Milke, a member the Norwin High School Class of 2019, has been selected as this year's recipient of the David J. Nelson Memorial Scholarship. Pictured during the scholarship presentation ceremony are Rachel, her parents, and Jeff and Lori Nelson.
 

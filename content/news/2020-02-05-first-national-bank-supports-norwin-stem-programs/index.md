@@ -8,7 +8,7 @@ draft = false
 [[resources]]
   src  = "fnb-tour.jpg"
   name = "featured"
-  
+
 [[resources]]
   src = "fnb-check-presentation.jpg"
   name = "fnb-check-presentation"
@@ -18,12 +18,12 @@ draft = false
 
 First National Bank recently donated $10,000 to support STEM Education programs at Norwin School District through the state’s Educational Improvement Tax Credit Program.<!--more-->
 
-{{< img src="fnb-check-presentation" class="img--side img" size="quarter" >}}
+{{< img src="fnb-check-presentation" class="img--wide-right" >}}
 
-STEM stands for science, technology, engineering, and mathematics, and emphasizes student collaboration and use of technologies and materials to innovate, invent, engineer and creatively solve real-world problems using a hands-on approach. 
+STEM stands for science, technology, engineering, and mathematics, and emphasizes student collaboration and use of technologies and materials to innovate, invent, engineer and creatively solve real-world problems using a hands-on approach.
 
-The state’s Educational Improvement Tax Credit Program can provide alternative revenue for innovative educational programs, while also helping participating businesses to receive substantial state tax credits. Additional information is available on the state’s official Educational Improvement Tax Credit Program [website](https://dced.pa.gov/programs/educational-improvement-tax-credit-program-eitc/).  
+The state’s Educational Improvement Tax Credit Program can provide alternative revenue for innovative educational programs, while also helping participating businesses to receive substantial state tax credits. Additional information is available on the state’s official Educational Improvement Tax Credit Program [website](https://dced.pa.gov/programs/educational-improvement-tax-credit-program-eitc/).
 
-After presenting the donation, Norwin Middle School Principal Mr. Robert Suman led First National Bank representatives on a tour of STEM education activities at Norwin Middle School. 
+After presenting the donation, Norwin Middle School Principal Mr. Robert Suman led First National Bank representatives on a tour of STEM education activities at Norwin Middle School.
 
 Norwin School District is grateful for this tremendous support for Norwin educational programs, including First National Bank’s long-running support through this program.
