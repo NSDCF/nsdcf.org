@@ -39,6 +39,6 @@ The goal for the 2020 Days of Giving Campaign is to raise $7,500.00 that will be
 
 You may target your donation to any of the above priorities or allow the Foundation to make that determination for you.
 
-Please visit the Norwin School District Community Foundation website at *[nsdcf.org/donate]({{< ref "donate/index.md" >}})* to make your tax-deductible gift during the Days of Giving between Wednesday, September 30, 2020 through Sunday, October 4, 2020.
+Please visit the Norwin School District Community Foundation website at *[nsdcf.org/donate]({{< ref "/donate/" >}})* to make your tax-deductible gift during the Days of Giving between Wednesday, September 30, 2020 through Sunday, October 4, 2020.
 
 If you prefer to donate via check, please make your donation payable to:  Norwin School District Community Foundation 281 McMahon Drive North Huntingdon 15642 (On the Memo Line, indicate the fund you wish to support.)

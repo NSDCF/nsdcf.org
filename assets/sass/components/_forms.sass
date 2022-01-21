@@ -1,21 +1,19 @@
 =base-input-no-bg
   appearance: none
-  border: 1px solid color(background, dark)
-  color: color(primary, base)
-  font-family: $family-serif
+  border: 1px solid var(--secondary-dark)
+  color: var(--primary)
+  font-family: $font-serif
   outline: none
-  padding: scale(small)
+  padding: var(--space-s)
 =base-input
   +base-input-no-bg
-  background: color(background, light)
-
-
+  background: var(--secondary-light)
   &:focus
-    background: color(background, lightest)
-    border-color: color(background, base)
+    background: var(--secondary-lightest)
+    border-color: var(--primary)
 
   &::placeholder
-    color: color(primary, lightest)
+    color: var(--primary-lightest)
 
 .form
   &--centered
@@ -24,30 +22,30 @@
       max-width: 24em
 
   &__button
-    background: color(background, lightest)
-    border: 1px solid color(background, dark)
+    background: var(--secondary-lightest)
+    border: 1px solid var(--secondary-dark)
     border-radius: .25em
     cursor: pointer
-    font-family: $family-sans-serif
-    margin-top: scale(base)
-    padding: scale(base) $gutter
+    font-family: $font-sans-serif
+    margin-top: var(--step-0)
+    padding: var(--step-0) var(--space-s)
     outline: none
 
     &:focus
-      box-shadow: 0px 0px .35em color(background, dark)
+      box-shadow: 0px 0px .35em var(--secondary-dark)
 
     &:hover
-      background-color: color(background, light)
+      background-color: var(secondary-light)
 
     &--tertiary
-      background: color(tertiary)
-      color: color(background, lightest)
+      background: var(--tertiary)
+      color: var(--secondary-lightest)
 
       &:focus
-        box-shadow: 0px 0px .25em color(tertiary, light)
+        box-shadow: 0px 0px .25em var(--tertiary-light)
 
       &:hover
-        background-color: color(tertiary, light)
+        background-color: var(--tertiary-light)
 
     &--centered
       margin-left: auto
@@ -55,7 +53,7 @@
 
   &__description
     display: block
-    font-size: scale(small)
+    font-size: var(--step--1)
     padding: 0
 
   &__field
@@ -68,43 +66,45 @@
     +respond("tablet-landscape")
       width: 50%
       &:first-child
-        padding-right: $gutter
+        padding-right: var(--space-s)
 
   &__fieldset
     border: 0
     padding: 0
-    margin-top: $halfGutter
+    margin-top: var(--space-s)
 
   &__input
     +base-input
+    background: var(--secondary)
     display: block
-    margin: scale(xx-small) 0 scale(base)
+    font-size: var(--step-0)
+    margin: var(--space-xs) 0
     width: 100%
 
   &__label
     display: block
-    font-size: scale(small)
+    font-size: var(--step--1)
     font-weight: 600
 
   &__select
-    background: none
+    background: var(--secondary)
     border: 1px solid #ccc
-    color: color(primary, base)
-    font-family: $family-serif
+    color: var(--primary)
+    font-size: var(--step-0)
+    font-family: $font-serif
     outline: none
-    padding: scale(x-small) scale(small)
+    padding: var(--space-xs) var(--space-s)
     &--full
       width: 100%
 
   &__textarea
     +base-input-no-bg
     transition: background .2s ease-out;
-    line-height: $base-line
-    margin: scale(xx-small) 0 0
-    padding: scale(xx-small)
+    margin: var(--space-xs) 0 0
+    padding: var(--space-xs)
     width: 100%
     &:focus
-      background: color(background, light)
+      background: var(--secondary-lightest)
 
 .button
   &--svg
@@ -115,21 +115,25 @@
   &--paypal
     // Tweak padding size due to dimensions of Paypal logo SVG
     // for more even appearance
-    color: color(primary, light)
-    padding-bottom: (scale(small)+scale(base))/2
-    margin: $gutter auto 0
+    border-radius: .25em
+    color: var(--primary-light)
+    padding: var(--space-s) var(--space-m) var(--space-xs)
+    margin: var(--space-s) auto 0
 
   &__icon
     &--paypal
-      height: $base-line
-      margin: -.125em 0 0 scale(small)
+      height: var(--step-1)
+      margin-left: var(--space-2xs)
 
     &--small-paypal
       height: 1em
       margin-top: auto
 
+.button__label--svg
+  font-size: var(--step-0)
+
 .checkbox
-  margin-top: $halfGutter
+  margin-top: var(--space-2xs)
 
   &__input
     position: absolute
@@ -141,18 +145,18 @@
 
     &:checked + label
       &::before
-        background: color(tertiary, light)
+        background: var(--tertiary-light)
 
       &::after
         content: ""
-        border-color: color(background, lightest)
+        border-color: var(--secondary-lightest)
 
     &:focus + label::before
-      box-shadow: 0 0 0 .075rem #fff, 0 0 0 .2rem color(tertiary, light)
+      box-shadow: 0 0 0 .075rem #fff, 0 0 0 .2rem var(--tertiary-light)
       outline: 0
 
   &__label
-    padding-left: $gutter
+    padding-left: var(--space-s)
     position: relative
 
     &--p
@@ -160,7 +164,7 @@
 
 
     &::before
-      background: color(background, base)
+      background: var(--secondary)
       border: none
       border-radius: .185em
       content: ""
@@ -187,9 +191,9 @@
     margin-top: 0
 
   &__span
-    font-size: scale(small)
+    font-size: var(--step--1)
 
 .form__info
-  font-size: scale("small")
-  margin-left: $gutter
-  margin-right: $gutter
+  font-size: var(--step--1)
+  margin-left: var(--space-s)
+  margin-right: var(--space-s)

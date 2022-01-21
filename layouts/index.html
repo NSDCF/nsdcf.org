@@ -1,7 +1,7 @@
 {{ define "title"}}{{ .Site.Params.title}}{{end}}
 
 {{ define "main" }}
-  <section class="home-section home-section--hero grid">
+  <section class="home-section--hero grid">
     <h1 class="home-section__hero-title">{{ .Title }}</h1>
     {{ partial "responsive-image" (dict "img" "featured" "class" "home-hero" "dot" .) }}
   </section>
