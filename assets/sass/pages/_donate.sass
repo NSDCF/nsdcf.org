@@ -92,9 +92,6 @@
 .form__select--donate
   width: 100%
 
-.donation__directed-input
-  width: 90%
-
 .donation_form__small_msg
   font-size: var(--step--1)
 
@@ -163,14 +160,10 @@
     height: 100%
     width: 5ch
 
-.donation_textarea
-  border-radius: var(--step--3)
-  display: block
-  width: 100%
-  +respond("tablet-landscape")
-    margin: var(--space-xs) auto 0
-    max-width: 22em
-//
+.donation_form__fieldgroup--directed
+  margin-right: var(--space-2xs)
+
+
 // .form__select
 //   &--donate
 //     display: block

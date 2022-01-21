@@ -11,65 +11,32 @@
 
     {{ .Content }}
 
-    <div class="donation_form donation_form--alumni">
-      <button class="accordion-link">Lifetime Membership&mdash;$100</button>
-      <div class="alumni-form__item" id="alumni--lifetime">
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="78WX2523RLPRW">
-          <input type="hidden" name="currency_code" value="USD">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_s-xclick">
+      <input type="hidden" name="hosted_button_id" value="78WX2523RLPRW">
+      <input type="hidden" name="currency_code" value="USD">
 
-          <fieldset class="form__fieldset">
-            <input type="hidden" name="on1" value="Norwin Graduate?">
-            <label class="form__label" for="os1">Are you a Norwin Graduate?</label>
-            <select class="form__select" name="os1">
-            	<option value="Yes">Yes </option>
-            	<option value="No">No </option>
-            </select>
-          </fieldset>
+      <fieldset class="form__fieldset">
+        <input type="hidden" name="on1" value="Norwin Graduate?">
+        <label class="form__label" for="os1">Are you a Norwin Graduate?</label>
+        <select class="form__select" name="os1">
+          <option value="Yes">Yes </option>
+          <option value="No">No </option>
+        </select>
+      </fieldset>
 
-          <fieldset class="form__fieldset">
-            <label class="form__label" for="os2">Year of Graduation:</label>
-            <input type="hidden" name="on2" value="Graduation Year">
-            <input type="text" name="os2" maxlength="200">
-          </fieldset>
+      <fieldset class="form__fieldset">
+        <label class="form__label" for="os2">Year of Graduation:</label>
+        <input type="hidden" name="on2" value="Graduation Year">
+        <input type="text" name="os2" maxlength="200" class="form__input">
+      </fieldset>
 
-          <button class="form__button button--svg button--paypal" type="submit">
-            <span class="button__label--svg">Pay with</span>
-            {{ partial "svg/paypal.svg" (dict "class" "button__icon button__icon--paypal") }}
-          </button>
-        </form>
-      </div>
+      <button class="form__button button--svg button--paypal" type="submit">
+        <span class="button__label--svg">Pay with</span>
+        {{ partial "svg/paypal.svg" (dict "class" "button__icon button__icon--paypal") }}
+      </button>
+    </form>
 
-      <button class="accordion-link">Annual Membership&mdash;$20</button>
-      <div class="alumni-form__item" id="alumni--annual">
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="AKLRMEN942F9A">
-          <input type="hidden" name="currency_code" value="USD">
-
-          <fieldset class="form__fieldset">
-            <input type="hidden" name="on1" value="Norwin Graduate?">
-            <label class="form__label" for="os1">Are you a Norwin Graduate?</label>
-            <select class="form__select" name="os1">
-            	<option value="Yes">Yes </option>
-            	<option value="No">No </option>
-            </select>
-          </fieldset>
-
-          <fieldset class="form__fieldset">
-            <label class="form__label" for="os2">Year of Graduation:</label>
-            <input type="hidden" name="on2" value="Graduation Year">
-            <input type="text" name="os2" maxlength="200">
-          </fieldset>
-
-          <button class="form__button button--svg button--paypal" type="submit">
-            <span class="button__label--svg">Pay with</span>
-            {{ partial "svg/paypal.svg" (dict "class" "button__icon button__icon--paypal") }}
-          </button>
-        </form>
-      </div>
-    </div>
 
     {{ if .Resources.Match "docs/*" }}
       {{ partial "resource_links" . }}
