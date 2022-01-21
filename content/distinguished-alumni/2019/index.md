@@ -122,4 +122,4 @@ On May 23, 2019, members of the Norwin community and past graduates came togethe
 
 The Norwin Alumni & Friends Association, together with the Norwin School District Community Foundation would like to thank the community for their support and a wonderful evening.
 
-{{< img "2019-recipients.jpg" "img--full" >}}
+{{< img src="2019-recipients.jpg" class="img--full" >}}

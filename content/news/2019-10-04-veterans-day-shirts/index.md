@@ -10,7 +10,7 @@ author = "Jack Boylan"
   name = "shirt.png"
 +++
 
-{{< img "shirt.png" "img--side" "quarter" >}}
+{{< img src="shirt.png" class="img--wide-right" >}}
 
 ## Help show your support for Norwin veterans this Veterans Day
 

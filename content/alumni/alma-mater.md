@@ -2,6 +2,7 @@
 linktitle = "Alma Mater"
 title = "Norwin's Alma Mater"
 draft = "false"
+noSummary = true
 +++
 
 On a grassy hillside<br />

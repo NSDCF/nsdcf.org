@@ -5,6 +5,7 @@ weight = "15"
 formHeading = "2020 Summer Camp Application Form"
 layout = "camp"
 type = "camp"
+showImage = true
 
 [[resources]]
   name = "featured"

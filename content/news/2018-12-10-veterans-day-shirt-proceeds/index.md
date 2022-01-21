@@ -24,7 +24,7 @@ Now, the NSDCF is proud to announce that twenty-five percent of the proceeds of 
 
 ### Wreaths Across America
 
-{{< img "wreaths-across-america.jpg" "img--side" "quarter" >}}
+{{< img src="wreaths-across-america.jpg" class="img--wide-right" >}}
 
 Each December, [Wreaths Across America](https://www.wreathsacrossamerica.org/) remembers our fallen U.S. veterans by coordinating a nationwide series of wreath-laying ceremonies at more than 1,400 cemeteries. Their mission started in 1992 with laying wreaths at Arlington National Cemetery, and since 2005, has expanded to U.S. veterans graves throughout the world.
 
@@ -32,7 +32,7 @@ The NSDCF's donation will be used to support the [North Huntingdon chapter's](ht
 
 ### VFW Post 781 Honor Guard
 
-{{< img "vfw-honor-guard01.jpg" "img--side" "quarter" >}}
+{{< img src="vfw-honor-guard01.jpg" class="img--wide-right" >}}
 
 The Honor Guard of VFW Post 781 of Irwin, Pennsylvania is a volunteer group of veterans who are called upon to provide military funeral honors for qualified veterans when requested. Military honors are a final recognition of a veterans' service on behalf of a grateful nation.
 
