@@ -10,7 +10,7 @@ author = "Jack Boylan"
 
 Thanks to the 30+ donors and the contributions from every school within the Norwin School District, over $4300 was raised during the 2019 Days of Giving with over $3900 directed towards scholarships managed by the NSDCF and the reamining donations applied to STEM, Educator Innovation Grants and NAFA’s Fundraising for the Generations.
 
-Over **ninety-nine** percent of the total money raised went directly to supporting Norwin scholarships and programs. 
+Over **ninety-nine** percent of the total money raised went directly to supporting Norwin scholarships and programs.
 
 The NSDCF Board of Directors are especially grateful to our business community for their generosity during the Days of Giving. Please support the following businesses who support the Norwin School District Community Foundation and Norwin Alumni and Friends Association:
 
@@ -30,6 +30,6 @@ The NSDCF Board of Directors are especially grateful to our business community f
 </div>
 
 
-The Days of Giving takes place annually from Wednesday through Sunday of Norwin's Homecoming Week, though you may always [donate]({{< ref "/donate/index.md" >}}) at any time during the year.
+The Days of Giving takes place annually from Wednesday through Sunday of Norwin's Homecoming Week, though you may always [donate]({{< ref "/donate/" >}}) at any time during the year.
 
 The Norwin School District Community Foundation is a 501\(c\)3 charitable non-profit. Consult you financial advisor to see if your donation to NSDCF is tax deductible.

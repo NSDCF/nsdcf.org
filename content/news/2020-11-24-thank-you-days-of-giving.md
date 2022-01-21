@@ -14,4 +14,4 @@ Other Foundation managed programs that received donations during this campaign i
 
 Our sincere thanks and appreciation go out to all who support Norwin School District Community Foundation.  Your kindness and generosity support Norwin students and programs that help Norwin School District maintain its reputation as a first-class school system.
 
-If you missed this year’s Days of Giving and would like to contribute to one or more of the scholarships and/or programs managed by the NSDCF or if you would like to start a scholarship or create an endowment to support a school program, please [get involved]({{< ref "get-involved/" >}}).
+If you missed this year’s Days of Giving and would like to contribute to one or more of the scholarships and/or programs managed by the NSDCF or if you would like to start a scholarship or create an endowment to support a school program, please [get involved]({{< ref "/donate" >}}).
