@@ -9,7 +9,7 @@ noSummary = true
 [[members]]
   name      = "Lynn Clark"
   honorific = "Ms."
-  positions = ["President","NAFA Executive Committee Member"]
+  positions = ["President","Executive Committee"]
 
 [[members]]
   name      = "Rebecca Parry"
@@ -19,12 +19,12 @@ noSummary = true
 [[members]]
   name      = "Jo Ann Stoecklein"
   honorific = "Ms."
-  positions = ["Treasurer","Communications Co-Chair", "NAFA Executive Committee Member","Co-Chair, Distinguished Alumni Banquet","Social Committee"]
+  positions = ["Treasurer","Communications Co-Chair", "Executive Committee","Distinguished Alumni Banquet Co-Chair","Social Committee"]
 
 [[members]]
   name      = "Debbie Kunkle"
   honorific = "Ms."
-  positions = ["Secretary","Past President","Member, NAFA Executive Committee","Co-Chair, Distinguished Alumni Banquet"]
+  positions = ["Secretary","Executive Committee","Distinguished Alumni Banquet Co-Chair", "Past President"]
 
 [[members]]
   name      = "John C. Boylan"
@@ -34,17 +34,27 @@ noSummary = true
 [[members]]
   name      = "Barb McKee"
   honorific = "Ms."
-  positions = ["NSDCF Liason","NAFA Executive Committee Member"]
+  positions = ["NSDCF Liason","NAFA Executive Committee"]
 
 [[members]]
-  name      = "Maryann Busdosh"
+  name      = "Mary Ann Busdosh"
   honorific = "Ms."
-  positions = ["Membership Chair"]
+  positions = ["Vice President","Executive Committee"]
 
 [[members]]
   name      = "Tom Stoecklein"
   honorific = "Mr."
-  positions = ["Scholarship Chair"]
+  positions = ["Communcations Chair"]
+
+[[members]]
+  name      = "Rich Siniawski"
+  honorific = "Mr."
+  positions = ["Member at Large","Executive Committee"]
+
+[[members]]
+  name      = "Sherry Siniawski"
+  honorific = "Ms."
+  positions = ["Member at Large","Executive Committee"]
 
 [[members]]
   name      = "Jeff Bouldin"

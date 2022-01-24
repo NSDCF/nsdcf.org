@@ -7,21 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "NSDCF",
   "license": "ISC",
   "devDependencies": {
     "@hotwired/turbo": "^7.1.0",
     "cssnano": "^4.1.10",
-    "del": "^5.1.0",
-    "gulp": "^4.0.2",
-    "gulp-hash": "^4.1.1",
-    "gulp-image-resize": "^0.13.0",
-    "gulp-imagemin": "^6.1.0",
-    "gulp-newer": "^1.4.0",
-    "imagemin-mozjpeg": "^8.0.0",
-    "merge2": "^1.2.2",
-    "postcss": "^7.0.2",
-    "postcss-cli": "^6.1.0",
-    "postcss-preset-env": "^6.7.0"
+    "postcss": "^8.4.5",
+    "postcss-preset-env": "^7",
+    "postcss-cli": "^9.1.0"
   }
 }

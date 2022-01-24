@@ -12,11 +12,6 @@ headless = true
   honorific = "Dr."
   positions = ["President","Norwin Resident"]
 
-  [[members]]
-    name      = "Jonathan Szish"
-    honorific = "Mr."
-    positions = ["Executive Director","Director of Communications and Development, Norwin School District"]
-
 [[members]]
   name      = "James Duffy"
   honorific = "Mr."
