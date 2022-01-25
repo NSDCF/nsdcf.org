@@ -33,7 +33,7 @@
     {{- partial "head/site-preload" . -}}
     {{- partial "head/site-manifest" . -}}
 
-    {{ $sass := resources.Get "sass/main.sass" | toCSS | postCSS }}
+    {{ $sass := resources.Get "sass/main.sass" | toCSS }}
     {{- if .Site.IsServer -}}
       <link rel="stylesheet" href="{{ $sass.Permalink }}">
     {{- else -}}
