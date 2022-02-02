@@ -3,7 +3,6 @@ logo        = "images/nsdcf-logo.png"
 shortTitle  = "NSDCF"
 title       = "Norwin School District Community Foundation"
 
-
 # Default image for og:image and twitter:image if none specified in frontmatter.
 images   = ["images/card-nsdcf.jpg"]
 imageAlt = "Norwin School District students walking onto football field for graduation ceremony"

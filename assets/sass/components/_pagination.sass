@@ -1,30 +1,36 @@
 .pagination
-  font-family: $family-sans-serif
-  font-size: scale(small)
-  list-style: none
+  grid-column: 1/-1
   text-align: center
 
-.page-item
+.pagination__list
+  //font-family: $font-sans-serif
+  list-style: none
+  margin: 0
+  padding: 0
+
+.pagination__item
   display: inline-block
-  &.disabled
 
   &.active
+    //
+  // &--previous
+  //   margin-right: var(--space-2xs)
+  // &--next
+  //   margin-left: var(--space-2xs)
 
+.pagination__link
+  color: var(--tertiary)
+  padding: var(--space-3xs)
+  text-decoration: none
+  font-style: normal
+  //font-variant-numeric: normal
+  padding: var(--space-3xs) var(--space-3xs)
 
-.page-link
-  color: color("primary", "lightest")
-  padding: $halfGutter
+  &:hover
+    color: var(--primary--lightest)
 
-  &[aria-label="First"],
-  &[aria-label="Last"]
-    padding: $halfGutter scale("xxx-small")
-  &[aria-label="Previous"]
-    margin-right: $halfGutter
-    padding: $halfGutter scale("xxx-small")
-  &[aria-label="Next"]
-    margin-left: $halfGutter
-    padding: $halfGutter scale("xxx-small")
-
-
-  .page-item.active &
-    color: color("primary", "base")
+  .pagination__item--active &,
+  &--ellipse
+    color: var(--primary--lightest)
+    &:hover
+      color: var(--primary--lightest)

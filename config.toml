@@ -11,6 +11,11 @@ metaDataFormat      = "toml"
 summaryLength       = 50
 pluralizeListTitles = false
 
+paginate = 9
+
+[params.pagination]
+  pagesBetweenActive = 4
+
 [mediaTypes]
   [mediaTypes."text/netlify"]
     delimiter = ""

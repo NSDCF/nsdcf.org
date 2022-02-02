@@ -51,14 +51,6 @@
 //   color(primary, light)
 //
 // Returns color value or null if name or variant not found.
-@function color($name: 'primary', $variant: 'base')
-  $color: map-search($colors, $name, $variant)
-  @return $color
-
-@function z-index($name: 'default')
-  $value: map-get($z-indexes, $name)
-  @return $value
-
 @function tint($color, $percent: 10%)
   @return mix(white, $color, $percent)
 
