@@ -13,10 +13,20 @@
   url         = "/programs/"
 
 [[main]]
-  name        = "Alumni"
+  name        = "Norwin Alumni & Friends"
   weight      = 30
   identifier  = "alumni"
-  url         = "/alumni/"
+  url         = "https://norwinalumni.org"
+  [main.params]
+    external = true
+
+[[main]]
+  name        = "Distinguished Alumni"
+  weight      = 35
+  identifier  = "distinguished-alumni"
+  url         = "https://norwinalumni.org/distinguished-alumni/"
+  [main.params]
+    external = true
 
 [[main]]
   name        = "News"
@@ -31,3 +41,19 @@
   weight = 10
   identifier = "legal"
   url = "/legal/"
+
+[[footer]]
+  name = "Norwin Alumni"
+  weight = 20
+  identifier = "nafa"
+  url = "https://norwinalumni.org"
+  [footer.params]
+    external = true
+
+[[footer]]
+  name = "Norwin School District"
+  weight = 30
+  identifier = "norwin"
+  url = "https://norwinsd.org"
+  [footer.params]
+    external = true

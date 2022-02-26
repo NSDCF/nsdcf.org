@@ -10,8 +10,14 @@ languageCode        = "en-us"
 metaDataFormat      = "toml"
 summaryLength       = 50
 pluralizeListTitles = false
-
 paginate = 9
+
+[build]
+noJSConfigInAssets = true
+
+[module]
+[[module.imports]]
+    path = 'github.com/nsdcf/nsdcf-theme'
 
 [params.pagination]
   pagesBetweenActive = 4

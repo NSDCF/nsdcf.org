@@ -2,6 +2,8 @@ description = "The Norwin School District Community Foundation works to help Nor
 logo        = "images/nsdcf-logo.png"
 shortTitle  = "NSDCF"
 title       = "Norwin School District Community Foundation"
+logoTitleLineOne = "Norwin School District"
+logoTitleLineTwo = "Community Foundation"
 
 # Default image for og:image and twitter:image if none specified in frontmatter.
 images   = ["images/card-nsdcf.jpg"]

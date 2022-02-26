@@ -1,15 +1,15 @@
 +++
-title     = "Our Story"
+title     = "This is Our Story"
 linkTitle = "Our Story"
 date  = "2017-12-15 16:58:57 +0000"
-type = "story"
+type  = "about"
 
 [[resources]]
   src  = "story_feature.jpg"
   name = "cover"
 +++
 
-{{% p class="intro_p intro_p--with-thumb" %}}
+{{% p class="intro_p" %}}
 The Norwin School District Community Foundation is focused upon a single idea: *what if we can do more for our community and students?*
 {{% /p %}}
 

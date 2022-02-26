@@ -1,2 +1,6 @@
 # Development env config
 disableAliases = false
+
+# [module]
+#   [[module.imports]]
+#     path = "/Users/tom/code/nsdcf-theme/"

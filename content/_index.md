@@ -2,7 +2,6 @@
 title = "Celebrating Norwin's Past and Supporting Its Future"
 date  = 2017-12-14T21:30:21-05:00
 draft = false
-layout_hero = true
 
 [[resources]]
  src = "index-hero.jpg"

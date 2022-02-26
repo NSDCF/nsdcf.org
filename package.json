@@ -8,8 +8,7 @@
   },
   "keywords": [],
   "author": "NSDCF",
-  "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@hotwired/turbo": "^7.1.0"
   }
 }
