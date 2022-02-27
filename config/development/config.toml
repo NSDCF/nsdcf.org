@@ -1,6 +1,5 @@
 # Development env config
 disableAliases = false
 
-# [module]
-#   [[module.imports]]
-#     path = "/Users/tom/code/nsdcf-theme/"
+[module]
+replacements = 'github.com/nsdcf/nsdcf-theme -> /Users/tom/code/nsdcf-theme/'
