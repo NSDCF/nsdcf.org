@@ -6,6 +6,10 @@ author = "Jack Boylan"
 "news/categories" = ["NAFA","Alumni","Community"]
 
 [[resources]]
+  src  = "lynn-clark-hero.jpg"
+  name = "featured"
+
+[[resources]]
   src = "lynn-clark-headshot.jpg"
   name = "lynn-clark-headshot.jpg"
   [resources.params]
