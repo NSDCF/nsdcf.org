@@ -17,7 +17,7 @@ aliases = ["/days-of-giving", "/day-of-giving", "/giving", "/get-involved"]
 subheading = "The future awaits Norwin students. Your support helps them move towards it."
 
 otherOptionsHeading = "Are you looking for another way to give back?"
-otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that helping members of the community give back to Norwin students isn't always simple. Many want to support students who are pursuing specific paths in life through dedicated scholarships.</p><p>The NSDCF has helped over twenty-five community members and organizations in starting scholarship funds and managing their growth so that they can continue benefiting Norwin students long into the future.</p>"
+otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that helping members of the community give back to Norwin students isn't always simple. Many want to support students who are pursuing specific paths in life through dedicated scholarships.</p><p>The NSDCF has helped over twenty-five community members and organizations in starting scholarship funds and managing their growth so that they can continue benefiting Norwin students long into the future.</p><p>At no time is this partnership with the community more obvious than during NSDCF’s annual fundraising drive, the Days of Giving, which takes place during Norwin’s Homecoming Week. Thanks to the generous support of Norwin alumni from near and far alike during this time, the Days of Giving enable us to continue supporting Norwin educational programs, grants, and scholarships for the upcoming school year.</p>"
 
 [[highlights]]
   link    = "/programs/scholarships/"
