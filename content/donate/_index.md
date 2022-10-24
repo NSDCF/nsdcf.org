@@ -1,6 +1,6 @@
 +++
 title               = "Support the Norwin School District Community Foundation"
-shortTitle          = "Donate"
+shortTitle          = "Donate to the Foundation"
 subTitle            = "Thank You"
 draft               = false
 type                = "donate"
@@ -28,18 +28,17 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
 
 [[highlights]]
   link    = "/programs/grants/"
-  order   = 2
+  order   = 3
   number  = "17,000+"
   type    = "dollars"
   caption = "in Educator Innovation Grants"
 
 [[highlights]]
-  link   = "/programs/summer-camp/"
-  order  = 3
-  number = "15"
+  link   = "/programs/scholarships/"
+  order  = 2
+  number = "25"
   type   = "count"
-  caption = "STEM Summer Camp Scholarships"
-
+  caption = "Community Scholarship Funds"
 [[quotes]]
   name = "Hunter Stecko"
   description = "2017 NAFA Scholarship Recipient"
