@@ -1,4 +1,5 @@
 +++
+linkTitle = "FAQ"
 title = "Frequently Asked Questions"
 date  = "2017-12-15 17:45:10 +0000"
 draft = false

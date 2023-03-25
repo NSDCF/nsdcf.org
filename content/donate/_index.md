@@ -1,6 +1,6 @@
 +++
+linkTitle           = "Giving"
 title               = "Support the Norwin School District Community Foundation"
-shortTitle          = "Donate to the Foundation"
 subTitle            = "Thank You"
 draft               = false
 type                = "donate"

@@ -1,4 +1,5 @@
 +++
+linkTitle = "News"
 title = "Latest News"
 date  = "2021-05-21T08:42:31-05:00"
 draft = false
