@@ -5,6 +5,12 @@ draft = false
 title = "Our 2022 Days of Giving was a Huge Success"
 hasResources = true
 "news/categories" = ["Norwin","Giving"]
+
+[[resources]]
+ src = "days-of-giving.jpg"
+ name = "featured"
+ [params]
+  alt = "The Norwin School District Community Foundation's annual Days of Giving are an opportunity for the community to help improve the education of Norwin students and support graduating Norwin seniors as they pursue their college dreams."
 +++
 
 Thanks to more than 50 donors and increased contributions from every school within the Norwin School District, over $14,000.00 was raised during the 2022 Days of Giving, nearly doubling the campaign goal of $7500.00. This year’s donations will support Student scholarships, STEAM Programs, Educator Innovation Grants, Fine Arts Fund, Athletics & Activities Fund, Project Playground and NAFA Special Programs.
