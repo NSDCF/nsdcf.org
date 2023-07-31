@@ -2,4 +2,4 @@
 disableAliases = false
 
 [module]
-replacements = 'github.com/nsdcf/nsdcf-theme -> /Users/tom/code/nsdcf-theme/'
+replacements = 'github.com/nsdcf/nsdcf-theme -> ../../nsdcf-theme/,github.com/nsdcf/nsdcf-shared-content -> ../../nsdcf-shared-content/'

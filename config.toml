@@ -18,6 +18,8 @@ noJSConfigInAssets = true
 [module]
 [[module.imports]]
     path = 'github.com/nsdcf/nsdcf-theme'
+[[module.imports]]
+    path = 'github.com/nsdcf/nsdcf-shared-content'
 
 [params.pagination]
   pagesBetweenActive = 4
