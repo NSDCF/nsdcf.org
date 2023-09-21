@@ -2,7 +2,7 @@
 honorific = "Ms."
 title = "Cheryl Campbel"
 positions = [
-  "At-Large Representative"
+  "Director"
 ]
 weight = 30
 
