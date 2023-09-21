@@ -27,4 +27,6 @@ The Educator Innovation Grant (EIG) program offers competitive grants for Norwin
 
 {{< img src="crazy-for-circuits" class="img--wide-right" >}}
 
-Applicants must be teachers within Norwin School District and are required to complete a detailed application demonstrating how the grant will engage students in innovative ways. Individual grants can consist of up to $1000, and are meant to serve as start-up funds for the initial roll-out of a program. After successfully proving the program's viability, they should be able to be continued with district-allocated funding in the future. The number of awards is determined by the amount of funds raised during the year.
+Applicants must be teachers within Norwin School District and are required to complete a detailed application demonstrating how the grant will engage students in innovative ways. Individual grants can consist of up to $1000, and are meant to serve as start-up funds for the initial roll-out of a program. After successfully proving the program's viability, they should be able to be continued with district-allocated funding in the future.
+
+The number of awards is determined by the amount of funds raised during the year. Since 2010, we have awarded over $30,000 in Educator Innovation Grants.
