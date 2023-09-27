@@ -13,7 +13,7 @@ genericDonationValue = "AllPrograms"
 donationOptions = ["All Programs","Foundation Scholarships","Educational Giving Fund","Educator Innovation Grants","NAFA Scholarship","Norwin Athletics & Activities Funds","Norwin Fine Arts Fund","Norwin STEM Fund","Community Memorials","Other"]
 payByCheck = "Alternatively, donations may be made by check payable to *Norwin School District Community Foundation* and mailed to 281 McMahon Drive, North Huntingdon, PA 15642."
 url = "/donate"
-aliases = ["/days-of-giving", "/day-of-giving", "/giving", "/get-involved"]
+aliases = ["/days-of-giving", "/daysofgiving","/day-of-giving", "/giving", "/get-involved"]
 subheading = "The future awaits Norwin students. Your support helps them move towards it."
 
 otherOptionsHeading = "Are you looking for another way to give back?"
