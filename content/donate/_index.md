@@ -52,9 +52,9 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
   text = "...the NAFA scholarship offered me financial peace of mind that allowed me to pursue a second major and a number of extracurricular activities. But more than that, knowing that I have the prayers and well wishes of NAFA members has been invaluable throughout my college experience."
 
 [banner]
- active     = false
- expiryDate = 2020-09-30T00:01:00-05:00
- text       = "The annual Days of Giving take place between September 30 and October 4. Your support can help make a difference for Norwin students."
+ active     = true
+ expiryDate = 2023-10-22T23:59:59-05:00
+ text       = "The annual Days of Giving take place October 16-22. Your support can help make a difference for Norwin students."
  linkText   = "Learn more."
 
 [menu]
@@ -78,9 +78,18 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
 [[resources]]
   src  = "scholarship-quote.md"
   name = "scholarship-quote"
+
+[[videos]]
+  name = "Help Support Norwin Students during the 2023 Days of Giving"
+  url  = "https://www.youtube.com/watch?v=Er3oWCn2Upo"
+  description = "Join us during Norwin's Homecoming week for the Days of Giving, October 16th through the 22nd, as we come together to support Norwin students and the success of our educational programs. It is a time when our community comes together to make a lasting impact on the lives of Norwin's students and the success of our educational programs."
+  duration = "2m32s"
+  youtubeId = "Er3oWCn2Upo"
+  uploadDate = 2023-10-15T20:45:00-05:00
+  thumbnailUrl = "http://i3.ytimg.com/vi/Er3oWCn2Upo/hqdefault.jpg"
 +++
 
-Annually, during the week of Norwin's Homecoming Celebration, the Norwin School District Community Foundation proudly presents the Days of Giving (DoG). It is a time when our community comes together to make a lasting impact on the lives of Norwin's students and the success of our educational programs.
+Join us during Norwin's Homecoming week for the Days of Giving, October 16th through the 22nd, as we come together to support Norwin students and the success of our educational programs. It is a time when our community comes together to make a lasting impact on the lives of Norwin's students and the success of our educational programs.
 
 Through your support, the Norwin School District Community Foundation is able to help make college dreams reality through scholarships, empower Norwin teachers to explore bold new opportunities for their students with Educator Innovation Grants, open the minds of our students to a world of opportunity through STEM education and summer camps, and so much more.
 
