@@ -35,7 +35,7 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
 [[highlights]]
   link    = "/programs/grants/"
   order   = 3
-  number  = "25,000"
+  number  = "30,000"
   type    = "dollars"
   caption = "in Educator Innovation Grants"
 
