@@ -1,6 +1,6 @@
 +++
-linkTitle           = "Support the 2023 Days of Giving"
-title               = "You can help support Norwin students during our annual Days of Giving"
+linkTitle           = "Giving"
+title               = "You can Help Support Norwin students"
 subTitle            = "Thank You"
 draft               = false
 type                = "donate"
@@ -18,7 +18,7 @@ donationOptions = [
   "Extracurricular Activities",
   "Norwin STEM/STEAM Fund"]
 payByCheck = "Alternatively, donations may be made by check payable to *Norwin School District Community Foundation* and mailed to 281 McMahon Drive, North Huntingdon, PA 15642."
-url = "/daysofgiving"
+url = "/giving"
 aliases = ["/days-of-giving", "/daysofgiving","/day-of-giving", "/giving", "/get-involved", "/donate"]
 subheading = "The future awaits Norwin students. Your support helps them move towards it."
 
@@ -78,31 +78,12 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
 [[resources]]
   src  = "scholarship-quote.md"
   name = "scholarship-quote"
-
-[[videos]]
-  name = "Help Support Norwin Students during the 2023 Days of Giving"
-  url  = "https://www.youtube.com/watch?v=Er3oWCn2Upo"
-  description = "Join us during Norwin's Homecoming week for the Days of Giving, October 16th through the 22nd, as we come together to support Norwin students and the success of our educational programs. It is a time when our community comes together to make a lasting impact on the lives of Norwin's students and the success of our educational programs."
-  duration = "2m32s"
-  youtubeId = "Er3oWCn2Upo"
-  uploadDate = 2023-10-15T20:45:00-05:00
-  thumbnailUrl = "http://i3.ytimg.com/vi/Er3oWCn2Upo/hqdefault.jpg"
 +++
-
-Join us during Norwin's Homecoming week for the Days of Giving, October 16th through the 22nd, as we come together to support Norwin students and the success of our educational programs. It is a time when our community comes together to make a lasting impact on the lives of Norwin's students and the success of our educational programs.
 
 Through your support, the Norwin School District Community Foundation is able to help make college dreams reality through scholarships, empower Norwin teachers to explore bold new opportunities for their students with Educator Innovation Grants, open the minds of our students to a world of opportunity through STEM education and summer camps, and so much more.
 
-## Learn about our goals for this year's Days of Giving
+You have the power to direct your donation to any of the aforementioned priorities, or you can trust the Foundation to allocate it where it's needed most. Whatever your choice, your donation can have a profound impact on the lives of Norwin students.
 
-* **College Scholarships** We aim to bolster our five smallest scholarship endowment funds, ensuring that student awards provide substantial assistance as they embark on their post-high school journeys. These scholarships, while valuable, have historically ranged from $400 to $600, and in the face of escalating higher education costs, students need increased support. 
-* **Norwin Alumni & Friends Association Scholarship** We aspire to augment the NAFA Scholarship, currently offering $500 annually, to provide even greater financial assistance to deserving students.
-* **Support for STEAM Education** We're committed to nurturing Norwin's K-12 STEAM programs (Science, Technology, Engineering, Arts, and Mathematics) by equipping students and teachers with the specialized curriculum resources essential for STEAM instruction.
-* **Educator Innovation Grants** Your generosity will empower educators through competitive grants, enabling them to pioneer innovative instructional methods that enrich and elevate the learning experience for our students.
-* **Enriching Extracurriculars at Norwin** We will continue our support for Norwin School District Athletics/Activities, Fine Arts, and Project Playground Funds, ensuring that our students have access to a well-rounded education.
-
-You have the power to direct your donation to any of the aforementioned priorities, or you can trust the Foundation to allocate it where it's needed most.
-
-Your donation can have a profound impact on the lives of Norwin students. On behalf Norwin students and teachers, the NSDCF thanks you for your continued support.
+On behalf Norwin students and teachers, the NSDCF thanks you for your continued support.
 
 *&mdash;Dr. Jack Boylan, President, NSDCF*
