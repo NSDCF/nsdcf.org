@@ -31,7 +31,7 @@ noJSConfigInAssets = true
 [outputs]
   home         = ["HTML", "RSS", "REDIR"]
   section      = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML", "RSS"]
+  taxonomy     = ["HTML", "RSS"]
   term         = ["HTML", "RSS"]
   page         = ["HTML"]
 
