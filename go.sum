@@ -8,9 +8,17 @@ github.com/nsdcf/nsdcf-shared-content v0.0.0-20240123190357-81eefdf7642c h1:P8lN
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20240123190357-81eefdf7642c/go.mod h1:rDo9svMWtl9RshAuhzi3Qp8UmVDjRcsOwRKc5EXjiYk=
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20240303214942-b91c89a1c99d h1:M9QG8Y/tgz9Ddk2/txJ0tmhueuvwaMQhWl0Re9wvMy8=
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20240303214942-b91c89a1c99d/go.mod h1:2alhtrV6SDMBjOozgjy20zLgQ57No+6fRg4pdBM21Sg=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20240312155224-9b415ae036ed h1:2bQpMf2Fqu0OYTgktrMW9iyXJUp4BIYV2STgRS3JM1U=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20240312155224-9b415ae036ed/go.mod h1:2alhtrV6SDMBjOozgjy20zLgQ57No+6fRg4pdBM21Sg=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20240312203826-bc06775bb06e h1:FGDEVJpX1trP4WPPchQ6JHWfQ+i32Wxn/TD59yVzg0A=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20240312203826-bc06775bb06e/go.mod h1:2alhtrV6SDMBjOozgjy20zLgQ57No+6fRg4pdBM21Sg=
 github.com/nsdcf/nsdcf-theme v0.0.0-20230325183444-c2293082df1c h1:bUvvo6C2T20ENqO3L7RDIWUYZZDUCsx07x1Q92eUE+c=
 github.com/nsdcf/nsdcf-theme v0.0.0-20230325183444-c2293082df1c/go.mod h1:zamWQ6ESoC6XVt6mv7DbBxw/kpz1o0GC8lbIWCVcbuQ=
 github.com/nsdcf/nsdcf-theme v0.0.0-20230928140554-3e4a8a1111cf h1:nUfGnxRjpSfUy+vNV2XGHEgrZuoYNjDzW1GPIJsFirg=
 github.com/nsdcf/nsdcf-theme v0.0.0-20230928140554-3e4a8a1111cf/go.mod h1:zamWQ6ESoC6XVt6mv7DbBxw/kpz1o0GC8lbIWCVcbuQ=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240123191111-0f216f3fcd2e h1:ayZMjp3pOBrYU1Xh4Nw+8G0T8fym5v+hNOU3wSFMxVo=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240123191111-0f216f3fcd2e/go.mod h1:zamWQ6ESoC6XVt6mv7DbBxw/kpz1o0GC8lbIWCVcbuQ=
+github.com/nsdcf/nsdcf-theme v0.0.0-20240312150459-45758700cefc h1:t22PwS29yPwqE0/FGhoPF5bWKtK/X3OW1+P+LLRpX3M=
+github.com/nsdcf/nsdcf-theme v0.0.0-20240312150459-45758700cefc/go.mod h1:mK7RlroT9SeyhDRvO7gL65M89Q4zpdxf1ryE3B44aeg=
+github.com/nsdcf/nsdcf-theme v0.0.0-20240312183345-dd5c253613c6 h1:gmABC9pJ2KMViwQwH8mlkGA7kzCDLzLuNw9xOGehYsM=
+github.com/nsdcf/nsdcf-theme v0.0.0-20240312183345-dd5c253613c6/go.mod h1:mK7RlroT9SeyhDRvO7gL65M89Q4zpdxf1ryE3B44aeg=
