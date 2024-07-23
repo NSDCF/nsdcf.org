@@ -1,8 +1,8 @@
 module github.com/nsdcf/nsdcf
 
-go 1.21
+go 1.22
 
 require (
-	github.com/nsdcf/nsdcf-shared-content v0.0.0-20240312203826-bc06775bb06e // indirect
-	github.com/nsdcf/nsdcf-theme v0.0.0-20240312183345-dd5c253613c6 // indirect
+	github.com/nsdcf/nsdcf-shared-content v0.0.0-20240725131540-07c2045fcceb
+	github.com/nsdcf/nsdcf-theme v0.0.0-20240724010526-cb40816fdbc8
 )
