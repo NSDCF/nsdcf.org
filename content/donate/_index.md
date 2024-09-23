@@ -67,7 +67,7 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
 
 [[resources]]
   name = "social"
-  src  = "social_img.png"
+  src  = "social.png"
 
 [[resources]]
   name = "featured"
