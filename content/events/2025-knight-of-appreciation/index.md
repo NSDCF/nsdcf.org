@@ -1,7 +1,7 @@
 +++
-title = "Join us for our Knight of Appreciation"
+title = "You're Invited to our Knight of Appreciation"
 date  = "2025-07-31T09:00:31-05:00"
-aliases = ["/knight-of-appreciation", "/knight-appreciation", "/night-of-appreciation", "/night-appreciation"]
+aliases = ["/knight-of-appreciation", "/knight-appreciation", "/night-of-appreciation", "/night-appreciation", "/knight_of_appreciation", "/knight_appreciation", "/night-of-appreciation", "/night-of-appreciation", "/appreciation"]
 slug = "knight-of-appreciation"
 draft = false
 
@@ -25,11 +25,12 @@ Sincerely,
 John C. “Jack” Boylan, D.Ed.
 President, 
 
+
 <div class="event-section event-section--reservations sub-grid">
 <h2 class="reservations__heading">Make Your Reservation Today</h2>
 <p class="reservations__p">We look forward to seeing you on Wednessday, September 10th at the Stratigos Banquet Centre. Doors open at 5:30pm.</p>
-<form class="form reservations-form" name="knight-of-appreciation-rsvp" method="POST" data-netlify="true" netlify-honeypot="site">
-  <p class="hidden">
+<form class="form reservations-form" name="knight-of-appreciation-rsvp" method="POST" action="/success" netlify-honeypot="site" data-turbo="false" netlify>
+  <p class="hidden" style="display:none!important;visiblity:hidden!important">
     <label>
       Don’t fill this out if you’re human: <input name="site" type="text" autocomplete="off" tabindex="-1" style="display:none!important;visiblity:hidden!important;"/>
     </label>
