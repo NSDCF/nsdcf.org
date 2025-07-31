@@ -10,7 +10,7 @@ languageCode        = "en-us"
 metaDataFormat      = "toml"
 summaryLength       = 50
 pluralizeListTitles = false
-paginate = 9
+pagerSize = 9
 
 [build]
 noJSConfigInAssets = true
