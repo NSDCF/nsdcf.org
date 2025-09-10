@@ -1,5 +1,5 @@
 +++
-title = "Greenawalt Scholarship"
+title = "Tim L. Greenawalt Memorial Scholarship"
 +++
 
-This scholarship is for a graduating Norwin High School senior. Interested students should contact their guidance counselor for more information.
+This scholarship is for a graduating Norwin High School senior with a minimum GPA of 3.0 who will be pursuing higher education in drafting, engineering, or graphic arts.
