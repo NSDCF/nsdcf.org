@@ -1,5 +1,11 @@
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20240923130112-7def9dbb52fa h1:2fmFB4Olvck8F95RpxAa+r7vs1DYjCMUQIAlH+G06CU=
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20240923130112-7def9dbb52fa/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250523092348-710015684ab9 h1:WFnKWSsC/W1Xmm53bhwPiG496h+xi0lgIJup3hjfIXQ=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250523092348-710015684ab9/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925010423-20890d7636c3 h1:4c0IpDlx6dstCPzeKH6FDZ/gqqiziLaRZH+TMCpjFUQ=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925010423-20890d7636c3/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925010831-9de95ac06510 h1:qisNL34NBtWHpUrklUmWm3mqeYQ51iDVEEdsxiZBCg0=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925010831-9de95ac06510/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240919210535-5fb469116ed6 h1:7LPahySGrRHslZ5jSAM+Vq3+MMK1B46W3K5Qkr/rHEc=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240919210535-5fb469116ed6/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
 github.com/nsdcf/nsdcf-theme v0.0.0-20250731133859-236a6cef11e5 h1:0O2ogOM37HpJzOmkk+YSlEN5feM7dk9D0QBYWOFG9Fk=
