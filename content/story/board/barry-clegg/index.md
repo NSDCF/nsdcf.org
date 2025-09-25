@@ -1,6 +1,6 @@
 +++
 honorific = "Mr."
-title = "William F. Caruthers II, Esq."
+title = "Barry J. Clegg"
 positions = ["Foundation Solicitor","Non-Voting Member"]
 weight = 25
 

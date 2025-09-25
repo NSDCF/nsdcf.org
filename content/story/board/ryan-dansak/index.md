@@ -1,8 +1,8 @@
 +++
 honorific = "Mr."
-title = "Matthew McKinney"
-positions = ["Co-Treasurer"]
-weight = 20
+title = "Ryan L. Dansak"
+positions = ["Member"]
+# weight = 30
 
 [[resources]]
   src  = "*.jpg"
