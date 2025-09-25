@@ -6,7 +6,15 @@ github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925010423-20890d7636c3 h1:4c0I
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925010423-20890d7636c3/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925010831-9de95ac06510 h1:qisNL34NBtWHpUrklUmWm3mqeYQ51iDVEEdsxiZBCg0=
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925010831-9de95ac06510/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925130905-a7c0c910d5f2 h1:KYMa9dho3DVlnVRuyfJJBQUvfWlip4ugC3qUwxMG5ko=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925130905-a7c0c910d5f2/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925141537-628d3d099895 h1:OUHcQ4kI7D2vPqNyf6bLxd+6WOia9UHC/bMPnCtMTxs=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925141537-628d3d099895/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240919210535-5fb469116ed6 h1:7LPahySGrRHslZ5jSAM+Vq3+MMK1B46W3K5Qkr/rHEc=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240919210535-5fb469116ed6/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
 github.com/nsdcf/nsdcf-theme v0.0.0-20250731133859-236a6cef11e5 h1:0O2ogOM37HpJzOmkk+YSlEN5feM7dk9D0QBYWOFG9Fk=
 github.com/nsdcf/nsdcf-theme v0.0.0-20250731133859-236a6cef11e5/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
+github.com/nsdcf/nsdcf-theme v0.0.0-20250925134925-5e94895fa523 h1:5BqUxULEmkhYlihIXlAz6mjvnaHIM9toYb716LfRiFA=
+github.com/nsdcf/nsdcf-theme v0.0.0-20250925134925-5e94895fa523/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
+github.com/nsdcf/nsdcf-theme v0.0.0-20250925140611-ac947c42261f h1:Dl0wOflP35baUPgmuQ1XgOswLxq/NWSg/92zeK4ymv4=
+github.com/nsdcf/nsdcf-theme v0.0.0-20250925140611-ac947c42261f/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
