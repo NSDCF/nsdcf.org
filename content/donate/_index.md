@@ -1,6 +1,6 @@
 +++
 linkTitle           = "Giving"
-title               = "You can Help Support Norwin students"
+title               = "You can Help Support Norwin students During our Annual Days of Giving"
 subTitle            = "Thank You"
 draft               = false
 type                = "donate"
@@ -13,8 +13,8 @@ genericDonationValue = "AllPrograms"
 donationOptions = [
   "All Programs",
   "College Scholarship Programs",
-  "Educator Innovation Grants",
   "Norwin Alumni & Friends Association Scholarship",
+  "Educator Innovation Grants",
   "Peer Buddy Graduation Celebration",
   "A+ Spaces: Academics, Arts, Athletic, & Activities"
 ]
