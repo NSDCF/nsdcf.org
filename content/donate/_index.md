@@ -53,9 +53,9 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
   text = "...the NAFA scholarship offered me financial peace of mind that allowed me to pursue a second major and a number of extracurricular activities. But more than that, knowing that I have the prayers and well wishes of NAFA members has been invaluable throughout my college experience."
 
 [banner]
- active     = false
- expiryDate = 2024-09-29T23:59:59-05:00
- text       = "The annual Days of Giving take place September 23-29. Your support can help make a difference for Norwin students."
+ active     = true
+ expiryDate = 2025-10-06T00:01:00-05:00
+ text       = "The annual Days of Giving take place September 29-October 5. Your support can help make a difference for Norwin students."
  linkText   = "Learn more."
 
 [menu]
