@@ -10,6 +10,8 @@ github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925130905-a7c0c910d5f2 h1:KYMa
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925130905-a7c0c910d5f2/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925141537-628d3d099895 h1:OUHcQ4kI7D2vPqNyf6bLxd+6WOia9UHC/bMPnCtMTxs=
 github.com/nsdcf/nsdcf-shared-content v0.0.0-20250925141537-628d3d099895/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20251003170500-37fc553505d0 h1:CeMWl8fsOjd625iMhBDPQwN3Stuauxf3z5BXgmisse8=
+github.com/nsdcf/nsdcf-shared-content v0.0.0-20251003170500-37fc553505d0/go.mod h1:ND7kj1f460JUwL8iNldU14WrfGoIyM9muLdR63wPvVA=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240919210535-5fb469116ed6 h1:7LPahySGrRHslZ5jSAM+Vq3+MMK1B46W3K5Qkr/rHEc=
 github.com/nsdcf/nsdcf-theme v0.0.0-20240919210535-5fb469116ed6/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
 github.com/nsdcf/nsdcf-theme v0.0.0-20250731133859-236a6cef11e5 h1:0O2ogOM37HpJzOmkk+YSlEN5feM7dk9D0QBYWOFG9Fk=
