@@ -22,3 +22,7 @@ github.com/nsdcf/nsdcf-theme v0.0.0-20250925134925-5e94895fa523 h1:5BqUxULEmkhYl
 github.com/nsdcf/nsdcf-theme v0.0.0-20250925134925-5e94895fa523/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
 github.com/nsdcf/nsdcf-theme v0.0.0-20250925140611-ac947c42261f h1:Dl0wOflP35baUPgmuQ1XgOswLxq/NWSg/92zeK4ymv4=
 github.com/nsdcf/nsdcf-theme v0.0.0-20250925140611-ac947c42261f/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
+github.com/nsdcf/nsdcf-theme v0.0.0-20260929211921-c72ca5ef5391 h1:uaY5NVGZMnMZrg+/nN31ENVcH7Jq3gtAQ7ZTeWMibI8=
+github.com/nsdcf/nsdcf-theme v0.0.0-20260929211921-c72ca5ef5391/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
+github.com/nsdcf/nsdcf-theme v0.0.0-20260929213041-440ddfa89cf1 h1:m+S5Lnc8aVUa+Z3vhJl3vumB/HF8ZARjPymLbI8nsW8=
+github.com/nsdcf/nsdcf-theme v0.0.0-20260929213041-440ddfa89cf1/go.mod h1:yOarfrW49ORPXz3WHQZFlMoKY549OGK+GX8EOv0pmYw=
