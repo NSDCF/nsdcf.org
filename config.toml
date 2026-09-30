@@ -73,8 +73,16 @@ noJSConfigInAssets = true
 
 [imaging]
   anchor         = "smart"
-  quality        = 70
   resampleFilter = "CatmullRom"
+
+  [imaging.jpeg]
+    quality = 70
+
+  [imaging.webp]
+    quality = 70
+
+  [imaging.avif]
+    quality = 70
 
   [imaging.exif]
     disableLatLong = true
