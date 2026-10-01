@@ -29,21 +29,21 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
 [[highlights]]
   link    = "/programs/scholarships/"
   order   = 1
-  number  = "1,158,134"
+  number  = "1,500,000"
   type    = "dollars"
   caption = "in College Scholarships since 2007"
 
 [[highlights]]
   link    = "/programs/grants/"
   order   = 3
-  number  = "30,000"
+  number  = "50,000"
   type    = "dollars"
   caption = "in Educator Innovation Grants"
 
 [[highlights]]
   link   = "/programs/scholarships/"
   order  = 2
-  number = "33"
+  number = "45"
   type   = "count"
   caption = "Community Scholarship Funds"
 [[quotes]]

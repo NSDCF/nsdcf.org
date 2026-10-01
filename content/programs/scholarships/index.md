@@ -21,6 +21,6 @@ showImage = true
 
 +++
 
-{{% p class="intro_p" %}}The NSDCF oversees over 33 scholarships to benefit graduating Norwin High School seniors in their quest to achieve higher education at a university, college, or technical school. Since 2007, total scholarships have exceede $1.3 million dollars.{{% /p %}}<!--more-->
+{{% p class="intro_p" %}}The NSDCF oversees over 45 scholarships to benefit graduating Norwin High School seniors in their quest to achieve higher education at a university, college, or technical school. Since 2007, total scholarships have exceede $1.5 million dollars.{{% /p %}}<!--more-->
 
 Each scholarship has specific criteria of eligibility for the award and a selection committee that screens the applications and chooses the awardee(s). Unless otherwise noted, interested students should contact their guidance counselor for more information, including scholarship applications.
