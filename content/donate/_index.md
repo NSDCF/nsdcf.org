@@ -1,6 +1,6 @@
 +++
 linkTitle           = "Giving"
-title               = "You can Help Support Norwin Students"
+title               = "You can Help Support Norwin Students During the Annual Days of Giving"
 subTitle            = "Thank You"
 draft               = false
 type                = "donate"
@@ -18,10 +18,10 @@ donationOptions = [
   "Peer Buddy Graduation Celebration",
   "A+ Spaces: Academics, Arts, Athletic, & Activities"
 ]
-payByCheck = "Alternatively, donations may be made by check payable to *Norwin School District Community Foundation* and mailed to 281 McMahon Drive, North Huntingdon, PA 15642."
+payByCheck = "Credit cards may be used without a Paypal account. Alternatively, donations may be made by check payable to *Norwin School District Community Foundation* and mailed to 281 McMahon Drive, North Huntingdon, PA 15642."
 url = "/giving"
 aliases = ["/days-of-giving", "/daysofgiving","/day-of-giving", "/giving", "/get-involved", "/donate"]
-subheading = "The future awaits Norwin students. Your support helps them move towards it."
+subheading = "The future awaits Norwin students. Your support during our Days of Giving helps them move towards it."
 
 otherOptionsHeading = "Are you looking for another way to give back?"
 otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that helping members of the community give back to Norwin students isn't always simple. Many want to support students who are pursuing specific paths in life through dedicated scholarships.</p><p>The NSDCF has helped over twenty-five community members and organizations in starting scholarship funds and managing their growth so that they can continue benefiting Norwin students long into the future.</p><p>At no time is this partnership with the community more obvious than during NSDCF’s annual fundraising drive, the Days of Giving, which takes place during Norwin’s Homecoming Week. Thanks to the generous support of Norwin alumni from near and far alike during this time, the Days of Giving enable us to continue supporting Norwin educational programs, grants, and scholarships for the upcoming school year.</p>"
@@ -54,7 +54,7 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
 
 [banner]
  active     = true
- expiryDate = 2025-10-10T11:59:59-05:00
+ expiryDate = 2026-10-10T11:59:59-05:00
  text       = "The annual Days of Giving take place October 5-October 10. Your support can help make a difference for Norwin students."
  linkText   = "Learn more."
 
@@ -81,9 +81,13 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
   name = "scholarship-quote"
 +++
 
-Through your support, the Norwin School District Community Foundation is able to help make college dreams reality through scholarships, empower Norwin teachers to explore bold new opportunities for their students with Educator Innovation Grants, open the minds of our students to a world of opportunity through STEM education and summer camps, and so much more.
+The Norwin School District Community Foundation's annual Days of Giving returns October 5–10 during Norwin Homecoming Week, giving alumni, families and community members an opportunity to support students, teachers and programs across the district.
 
-You have the power to direct your donation to any of the aforementioned priorities, or you can trust the Foundation to allocate it where it's needed most. Whatever your choice, your donation can have a profound impact on the lives of Norwin students.
+For 2026, the Foundation is focusing Days of Giving on three priorities: growing its smallest endowed scholarships, supporting Educator Innovation Grants and providing additional support for Norwin's A+ Facilities initiative.
+
+You may direct your gift to a specific Foundation priority, or allow the Foundation to apply it where the need is greatest.
+
+Since 2007, the Foundation has facilitated more than $1.5 million in scholarship awards for Norwin High School students and more than $50,000 in Educator Innovation Grants, helping extend the impact of community support across generations of Norwin students and educators.
 
 On behalf Norwin students and teachers, the NSDCF thanks you for your continued support.
 
