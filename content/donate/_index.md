@@ -79,6 +79,15 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
 [[resources]]
   src  = "scholarship-quote.md"
   name = "scholarship-quote"
+
+[[videos]]
+  name        = "Give Back to Norwin During the 2026 Days of Giving"
+  embedUrl    = "https://www.youtube.com/embed/OqMR2JZkgJA"
+  url         = "https://www.youtube.com/watch?v=OqMR2JZkgJA"
+  description = "Homecoming Week brings the Norwin community together each year, and the Norwin School District Community Foundation's Days of Giving provides another way to take part by supporting the students, educators and programs at the center of the district. In this message, NSDCF President Dr. Jack Boylan introduces the 2026 Days of Giving, taking place October 5-10, and this year's focus on growing smaller endowed scholarships, supporting Educator Innovation Grants and providing additional support for Norwin's A+ Facilities initiative."
+  duration    = "2m31s"
+  youtubeId   = "OqMR2JZkgJA"
+  uploadDate  = 2026-10-05T15:53:08-07:00
 +++
 
 The Norwin School District Community Foundation's annual Days of Giving returns October 5–10 during Norwin Homecoming Week, giving alumni, families and community members an opportunity to support students, teachers and programs across the district.
