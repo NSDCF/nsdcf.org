@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --minify"
+  command = "hugo mod get github.com/nsdcf/nsdcf-shared-content@main github.com/nsdcf/nsdcf-theme@master && hugo --gc --minify"
   publish = "public"
 
 [context.production.environment]
