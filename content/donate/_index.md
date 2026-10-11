@@ -55,7 +55,7 @@ otherOptionsText = "<p>From the NSDCF's very first days, we've recognized that h
 [banner]
  active     = true
  expiryDate = 2026-10-10T11:59:59-05:00
- text       = "The annual Days of Giving take place October 5-October 10. Your support can help make a difference for Norwin students."
+ text       = "The annual Days of Giving take place October 5-October 11. Your support can help make a difference for Norwin students."
  linkText   = "Learn more."
 
 [menu]
